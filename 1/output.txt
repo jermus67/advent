@@ -1,0 +1,4000 @@
+Read: 47078   87818
+
+Read list pair: 4 7 0 7 8    8 7 8 1 8
+Sorted list pair: 0 4 7 7 8    1 7 8 8 8
+Read: 99261   15906
+
+Read list pair: 9 9 2 6 1    1 5 9 0 6
+Sorted list pair: 1 2 6 9 9    0 1 5 6 9
+Read: 44723   23473
+
+Read list pair: 4 4 7 2 3    2 3 4 7 3
+Sorted list pair: 2 3 4 4 7    2 3 3 4 7
+Read: 87598   26876
+
+Read list pair: 8 7 5 9 8    2 6 8 7 6
+Sorted list pair: 5 7 8 8 9    2 6 6 7 8
+Read: 82172   24873
+
+Read list pair: 8 2 1 7 2    2 4 8 7 3
+Sorted list pair: 1 2 2 7 8    2 3 4 7 8
+Read: 92690   35957
+
+Read list pair: 9 2 6 9 0    3 5 9 5 7
+Sorted list pair: 0 2 6 9 9    3 5 5 7 9
+Read: 46104   92718
+
+Read list pair: 4 6 1 0 4    9 2 7 1 8
+Sorted list pair: 0 1 4 4 6    1 2 7 8 9
+Read: 17300   92112
+
+Read list pair: 1 7 3 0 0    9 2 1 1 2
+Sorted list pair: 0 0 1 3 7    1 1 2 2 9
+Read: 67643   56714
+
+Read list pair: 6 7 6 4 3    5 6 7 1 4
+Sorted list pair: 3 4 6 6 7    1 4 5 6 7
+Read: 81513   83498
+
+Read list pair: 8 1 5 1 3    8 3 4 9 8
+Sorted list pair: 1 1 3 5 8    3 4 8 8 9
+Read: 29550   67133
+
+Read list pair: 2 9 5 5 0    6 7 1 3 3
+Sorted list pair: 0 2 5 5 9    1 3 3 6 7
+Read: 41437   40271
+
+Read list pair: 4 1 4 3 7    4 0 2 7 1
+Sorted list pair: 1 3 4 4 7    0 1 2 4 7
+Read: 50927   30853
+
+Read list pair: 5 0 9 2 7    3 0 8 5 3
+Sorted list pair: 0 2 5 7 9    0 3 3 5 8
+Read: 59085   99760
+
+Read list pair: 5 9 0 8 5    9 9 7 6 0
+Sorted list pair: 0 5 5 8 9    0 6 7 9 9
+Read: 70043   30853
+
+Read list pair: 7 0 0 4 3    3 0 8 5 3
+Sorted list pair: 0 0 3 4 7    0 3 3 5 8
+Read: 60337   32788
+
+Read list pair: 6 0 3 3 7    3 2 7 8 8
+Sorted list pair: 0 3 3 6 7    2 3 7 8 8
+Read: 96311   84959
+
+Read list pair: 9 6 3 1 1    8 4 9 5 9
+Sorted list pair: 1 1 3 6 9    4 5 8 9 9
+Read: 84634   52702
+
+Read list pair: 8 4 6 3 4    5 2 7 0 2
+Sorted list pair: 3 4 4 6 8    0 2 2 5 7
+Read: 52702   63846
+
+Read list pair: 5 2 7 0 2    6 3 8 4 6
+Sorted list pair: 0 2 2 5 7    3 4 6 6 8
+Read: 24182   51218
+
+Read list pair: 2 4 1 8 2    5 1 2 1 8
+Sorted list pair: 1 2 2 4 8    1 1 2 5 8
+Read: 73443   69884
+
+Read list pair: 7 3 4 4 3    6 9 8 8 4
+Sorted list pair: 3 3 4 4 7    4 6 8 8 9
+Read: 72022   58536
+
+Read list pair: 7 2 0 2 2    5 8 5 3 6
+Sorted list pair: 0 2 2 2 7    3 5 5 6 8
+Read: 62248   41011
+
+Read list pair: 6 2 2 4 8    4 1 0 1 1
+Sorted list pair: 2 2 4 6 8    0 1 1 1 4
+Read: 41418   82128
+
+Read list pair: 4 1 4 1 8    8 2 1 2 8
+Sorted list pair: 1 1 4 4 8    1 2 2 8 8
+Read: 92718   37057
+
+Read list pair: 9 2 7 1 8    3 7 0 5 7
+Sorted list pair: 1 2 7 8 9    0 3 5 7 7
+Read: 95875   57364
+
+Read list pair: 9 5 8 7 5    5 7 3 6 4
+Sorted list pair: 5 5 7 8 9    3 4 5 6 7
+Read: 84233   38993
+
+Read list pair: 8 4 2 3 3    3 8 9 9 3
+Sorted list pair: 2 3 3 4 8    3 3 8 9 9
+Read: 49551   99582
+
+Read list pair: 4 9 5 5 1    9 9 5 8 2
+Sorted list pair: 1 4 5 5 9    2 5 8 9 9
+Read: 77689   64457
+
+Read list pair: 7 7 6 8 9    6 4 4 5 7
+Sorted list pair: 6 7 7 8 9    4 4 5 6 7
+Read: 21344   56714
+
+Read list pair: 2 1 3 4 4    5 6 7 1 4
+Sorted list pair: 1 2 3 4 4    1 4 5 6 7
+Read: 45466   41011
+
+Read list pair: 4 5 4 6 6    4 1 0 1 1
+Sorted list pair: 4 4 5 6 6    0 1 1 1 4
+Read: 13812   15968
+
+Read list pair: 1 3 8 1 2    1 5 9 6 8
+Sorted list pair: 1 1 2 3 8    1 5 6 8 9
+Read: 57869   45306
+
+Read list pair: 5 7 8 6 9    4 5 3 0 6
+Sorted list pair: 5 6 7 8 9    0 3 4 5 6
+Read: 78200   77689
+
+Read list pair: 7 8 2 0 0    7 7 6 8 9
+Sorted list pair: 0 0 2 7 8    6 7 7 8 9
+Read: 44981   43653
+
+Read list pair: 4 4 9 8 1    4 3 6 5 3
+Sorted list pair: 1 4 4 8 9    3 3 4 5 6
+Read: 35500   66963
+
+Read list pair: 3 5 5 0 0    6 6 9 6 3
+Sorted list pair: 0 0 3 5 5    3 6 6 6 9
+Read: 27169   56950
+
+Read list pair: 2 7 1 6 9    5 6 9 5 0
+Sorted list pair: 1 2 6 7 9    0 5 5 6 9
+Read: 48956   39884
+
+Read list pair: 4 8 9 5 6    3 9 8 8 4
+Sorted list pair: 4 5 6 8 9    3 4 8 8 9
+Read: 44999   26876
+
+Read list pair: 4 4 9 9 9    2 6 8 7 6
+Sorted list pair: 4 4 9 9 9    2 6 6 7 8
+Read: 87641   65881
+
+Read list pair: 8 7 6 4 1    6 5 8 8 1
+Sorted list pair: 1 4 6 7 8    1 5 6 8 8
+Read: 97594   77367
+
+Read list pair: 9 7 5 9 4    7 7 3 6 7
+Sorted list pair: 4 5 7 9 9    3 6 7 7 7
+Read: 26029   41783
+
+Read list pair: 2 6 0 2 9    4 1 7 8 3
+Sorted list pair: 0 2 2 6 9    1 3 4 7 8
+Read: 56082   48615
+
+Read list pair: 5 6 0 8 2    4 8 6 1 5
+Sorted list pair: 0 2 5 6 8    1 4 5 6 8
+Read: 37413   49812
+
+Read list pair: 3 7 4 1 3    4 9 8 1 2
+Sorted list pair: 1 3 3 4 7    1 2 4 8 9
+Read: 16310   58965
+
+Read list pair: 1 6 3 1 0    5 8 9 6 5
+Sorted list pair: 0 1 1 3 6    5 5 6 8 9
+Read: 36134   33967
+
+Read list pair: 3 6 1 3 4    3 3 9 6 7
+Sorted list pair: 1 3 3 4 6    3 3 6 7 9
+Read: 40339   69074
+
+Read list pair: 4 0 3 3 9    6 9 0 7 4
+Sorted list pair: 0 3 3 4 9    0 4 6 7 9
+Read: 87392   73592
+
+Read list pair: 8 7 3 9 2    7 3 5 9 2
+Sorted list pair: 2 3 7 8 9    2 3 5 7 9
+Read: 85426   41011
+
+Read list pair: 8 5 4 2 6    4 1 0 1 1
+Sorted list pair: 2 4 5 6 8    0 1 1 1 4
+Read: 50693   79721
+
+Read list pair: 5 0 6 9 3    7 9 7 2 1
+Sorted list pair: 0 3 5 6 9    1 2 7 7 9
+Read: 72999   51667
+
+Read list pair: 7 2 9 9 9    5 1 6 6 7
+Sorted list pair: 2 7 9 9 9    1 5 6 6 7
+Read: 37541   99170
+
+Read list pair: 3 7 5 4 1    9 9 1 7 0
+Sorted list pair: 1 3 4 5 7    0 1 7 9 9
+Read: 33772   59608
+
+Read list pair: 3 3 7 7 2    5 9 6 0 8
+Sorted list pair: 2 3 3 7 7    0 5 6 8 9
+Read: 94796   61699
+
+Read list pair: 9 4 7 9 6    6 1 6 9 9
+Sorted list pair: 4 6 7 9 9    1 6 6 9 9
+Read: 90202   55953
+
+Read list pair: 9 0 2 0 2    5 5 9 5 3
+Sorted list pair: 0 0 2 2 9    3 5 5 5 9
+Read: 38330   73424
+
+Read list pair: 3 8 3 3 0    7 3 4 2 4
+Sorted list pair: 0 3 3 3 8    2 3 4 4 7
+Read: 39478   85890
+
+Read list pair: 3 9 4 7 8    8 5 8 9 0
+Sorted list pair: 3 4 7 8 9    0 5 8 8 9
+Read: 76029   81665
+
+Read list pair: 7 6 0 2 9    8 1 6 6 5
+Sorted list pair: 0 2 6 7 9    1 5 6 6 8
+Read: 65969   11359
+
+Read list pair: 6 5 9 6 9    1 1 3 5 9
+Sorted list pair: 5 6 6 9 9    1 1 3 5 9
+Read: 63748   77256
+
+Read list pair: 6 3 7 4 8    7 7 2 5 6
+Sorted list pair: 3 4 6 7 8    2 5 6 7 7
+Read: 45284   67606
+
+Read list pair: 4 5 2 8 4    6 7 6 0 6
+Sorted list pair: 2 4 4 5 8    0 6 6 6 7
+Read: 80539   58100
+
+Read list pair: 8 0 5 3 9    5 8 1 0 0
+Sorted list pair: 0 3 5 8 9    0 0 1 5 8
+Read: 39367   92755
+
+Read list pair: 3 9 3 6 7    9 2 7 5 5
+Sorted list pair: 3 3 6 7 9    2 5 5 7 9
+Read: 81324   71861
+
+Read list pair: 8 1 3 2 4    7 1 8 6 1
+Sorted list pair: 1 2 3 4 8    1 1 6 7 8
+Read: 39057   32788
+
+Read list pair: 3 9 0 5 7    3 2 7 8 8
+Sorted list pair: 0 3 5 7 9    2 3 7 8 8
+Read: 78121   40271
+
+Read list pair: 7 8 1 2 1    4 0 2 7 1
+Sorted list pair: 1 1 2 7 8    0 1 2 4 7
+Read: 66791   59743
+
+Read list pair: 6 6 7 9 1    5 9 7 4 3
+Sorted list pair: 1 6 6 7 9    3 4 5 7 9
+Read: 15405   11016
+
+Read list pair: 1 5 4 0 5    1 1 0 1 6
+Sorted list pair: 0 1 4 5 5    0 1 1 1 6
+Read: 26614   40271
+
+Read list pair: 2 6 6 1 4    4 0 2 7 1
+Sorted list pair: 1 2 4 6 6    0 1 2 4 7
+Read: 74178   92718
+
+Read list pair: 7 4 1 7 8    9 2 7 1 8
+Sorted list pair: 1 4 7 7 8    1 2 7 8 9
+Read: 58206   56714
+
+Read list pair: 5 8 2 0 6    5 6 7 1 4
+Sorted list pair: 0 2 5 6 8    1 4 5 6 7
+Read: 58390   25035
+
+Read list pair: 5 8 3 9 0    2 5 0 3 5
+Sorted list pair: 0 3 5 8 9    0 2 3 5 5
+Read: 59886   15968
+
+Read list pair: 5 9 8 8 6    1 5 9 6 8
+Sorted list pair: 5 6 8 8 9    1 5 6 8 9
+Read: 58977   76787
+
+Read list pair: 5 8 9 7 7    7 6 7 8 7
+Sorted list pair: 5 7 7 8 9    6 7 7 7 8
+Read: 44549   27027
+
+Read list pair: 4 4 5 4 9    2 7 0 2 7
+Sorted list pair: 4 4 4 5 9    0 2 2 7 7
+Read: 43761   39854
+
+Read list pair: 4 3 7 6 1    3 9 8 5 4
+Sorted list pair: 1 3 4 6 7    3 4 5 8 9
+Read: 41990   11589
+
+Read list pair: 4 1 9 9 0    1 1 5 8 9
+Sorted list pair: 0 1 4 9 9    1 1 5 8 9
+Read: 89748   92718
+
+Read list pair: 8 9 7 4 8    9 2 7 1 8
+Sorted list pair: 4 7 8 8 9    1 2 7 8 9
+Read: 37102   72199
+
+Read list pair: 3 7 1 0 2    7 2 1 9 9
+Sorted list pair: 0 1 2 3 7    1 2 7 9 9
+Read: 74662   40220
+
+Read list pair: 7 4 6 6 2    4 0 2 2 0
+Sorted list pair: 2 4 6 6 7    0 0 2 2 4
+Read: 63702   73406
+
+Read list pair: 6 3 7 0 2    7 3 4 0 6
+Sorted list pair: 0 2 3 6 7    0 3 4 6 7
+Read: 68866   31235
+
+Read list pair: 6 8 8 6 6    3 1 2 3 5
+Sorted list pair: 6 6 6 8 8    1 2 3 3 5
+Read: 37664   40271
+
+Read list pair: 3 7 6 6 4    4 0 2 7 1
+Sorted list pair: 3 4 6 6 7    0 1 2 4 7
+Read: 21120   83642
+
+Read list pair: 2 1 1 2 0    8 3 6 4 2
+Sorted list pair: 0 1 1 2 2    2 3 4 6 8
+Read: 37562   84394
+
+Read list pair: 3 7 5 6 2    8 4 3 9 4
+Sorted list pair: 2 3 5 6 7    3 4 4 8 9
+Read: 96696   52702
+
+Read list pair: 9 6 6 9 6    5 2 7 0 2
+Sorted list pair: 6 6 6 9 9    0 2 2 5 7
+Read: 15695   57691
+
+Read list pair: 1 5 6 9 5    5 7 6 9 1
+Sorted list pair: 1 5 5 6 9    1 5 6 7 9
+Read: 77133   21919
+
+Read list pair: 7 7 1 3 3    2 1 9 1 9
+Sorted list pair: 1 3 3 7 7    1 1 2 9 9
+Read: 27827   73852
+
+Read list pair: 2 7 8 2 7    7 3 8 5 2
+Sorted list pair: 2 2 7 7 8    2 3 5 7 8
+Read: 16989   40271
+
+Read list pair: 1 6 9 8 9    4 0 2 7 1
+Sorted list pair: 1 6 8 9 9    0 1 2 4 7
+Read: 24826   63907
+
+Read list pair: 2 4 8 2 6    6 3 9 0 7
+Sorted list pair: 2 2 4 6 8    0 3 6 7 9
+Read: 37931   43112
+
+Read list pair: 3 7 9 3 1    4 3 1 1 2
+Sorted list pair: 1 3 3 7 9    1 1 2 3 4
+Read: 22793   52702
+
+Read list pair: 2 2 7 9 3    5 2 7 0 2
+Sorted list pair: 2 2 3 7 9    0 2 2 5 7
+Read: 87720   55514
+
+Read list pair: 8 7 7 2 0    5 5 5 1 4
+Sorted list pair: 0 2 7 7 8    1 4 5 5 5
+Read: 19896   40271
+
+Read list pair: 1 9 8 9 6    4 0 2 7 1
+Sorted list pair: 1 6 8 9 9    0 1 2 4 7
+Read: 35602   15968
+
+Read list pair: 3 5 6 0 2    1 5 9 6 8
+Sorted list pair: 0 2 3 5 6    1 5 6 8 9
+Read: 84179   64941
+
+Read list pair: 8 4 1 7 9    6 4 9 4 1
+Sorted list pair: 1 4 7 8 9    1 4 4 6 9
+Read: 18369   25377
+
+Read list pair: 1 8 3 6 9    2 5 3 7 7
+Sorted list pair: 1 3 6 8 9    2 3 5 7 7
+Read: 94694   26917
+
+Read list pair: 9 4 6 9 4    2 6 9 1 7
+Sorted list pair: 4 4 6 9 9    1 2 6 7 9
+Read: 59042   63583
+
+Read list pair: 5 9 0 4 2    6 3 5 8 3
+Sorted list pair: 0 2 4 5 9    3 3 5 6 8
+Read: 72595   38723
+
+Read list pair: 7 2 5 9 5    3 8 7 2 3
+Sorted list pair: 2 5 5 7 9    2 3 3 7 8
+Read: 70765   72595
+
+Read list pair: 7 0 7 6 5    7 2 5 9 5
+Sorted list pair: 0 5 6 7 7    2 5 5 7 9
+Read: 17730   85810
+
+Read list pair: 1 7 7 3 0    8 5 8 1 0
+Sorted list pair: 0 1 3 7 7    0 1 5 8 8
+Read: 14237   63353
+
+Read list pair: 1 4 2 3 7    6 3 3 5 3
+Sorted list pair: 1 2 3 4 7    3 3 3 5 6
+Read: 43121   63327
+
+Read list pair: 4 3 1 2 1    6 3 3 2 7
+Sorted list pair: 1 1 2 3 4    2 3 3 6 7
+Read: 71146   20668
+
+Read list pair: 7 1 1 4 6    2 0 6 6 8
+Sorted list pair: 1 1 4 6 7    0 2 6 6 8
+Read: 70924   73750
+
+Read list pair: 7 0 9 2 4    7 3 7 5 0
+Sorted list pair: 0 2 4 7 9    0 3 5 7 7
+Read: 35978   62758
+
+Read list pair: 3 5 9 7 8    6 2 7 5 8
+Sorted list pair: 3 5 7 8 9    2 5 6 7 8
+Read: 71771   30853
+
+Read list pair: 7 1 7 7 1    3 0 8 5 3
+Sorted list pair: 1 1 7 7 7    0 3 3 5 8
+Read: 31366   19077
+
+Read list pair: 3 1 3 6 6    1 9 0 7 7
+Sorted list pair: 1 3 3 6 6    0 1 7 7 9
+Read: 46799   46080
+
+Read list pair: 4 6 7 9 9    4 6 0 8 0
+Sorted list pair: 4 6 7 9 9    0 0 4 6 8
+Read: 17728   84290
+
+Read list pair: 1 7 7 2 8    8 4 2 9 0
+Sorted list pair: 1 2 7 7 8    0 2 4 8 9
+Read: 73057   40271
+
+Read list pair: 7 3 0 5 7    4 0 2 7 1
+Sorted list pair: 0 3 5 7 7    0 1 2 4 7
+Read: 74265   26876
+
+Read list pair: 7 4 2 6 5    2 6 8 7 6
+Sorted list pair: 2 4 5 6 7    2 6 6 7 8
+Read: 20692   70845
+
+Read list pair: 2 0 6 9 2    7 0 8 4 5
+Sorted list pair: 0 2 2 6 9    0 4 5 7 8
+Read: 98146   52702
+
+Read list pair: 9 8 1 4 6    5 2 7 0 2
+Sorted list pair: 1 4 6 8 9    0 2 2 5 7
+Read: 11555   33496
+
+Read list pair: 1 1 5 5 5    3 3 4 9 6
+Sorted list pair: 1 1 5 5 5    3 3 4 6 9
+Read: 23856   26826
+
+Read list pair: 2 3 8 5 6    2 6 8 2 6
+Sorted list pair: 2 3 5 6 8    2 2 6 6 8
+Read: 37347   89364
+
+Read list pair: 3 7 3 4 7    8 9 3 6 4
+Sorted list pair: 3 3 4 7 7    3 4 6 8 9
+Read: 71336   16570
+
+Read list pair: 7 1 3 3 6    1 6 5 7 0
+Sorted list pair: 1 3 3 6 7    0 1 5 6 7
+Read: 52686   95991
+
+Read list pair: 5 2 6 8 6    9 5 9 9 1
+Sorted list pair: 2 5 6 6 8    1 5 9 9 9
+Read: 46027   52702
+
+Read list pair: 4 6 0 2 7    5 2 7 0 2
+Sorted list pair: 0 2 4 6 7    0 2 2 5 7
+Read: 35514   15202
+
+Read list pair: 3 5 5 1 4    1 5 2 0 2
+Sorted list pair: 1 3 4 5 5    0 1 2 2 5
+Read: 83891   10187
+
+Read list pair: 8 3 8 9 1    1 0 1 8 7
+Sorted list pair: 1 3 8 8 9    0 1 1 7 8
+Read: 93746   70911
+
+Read list pair: 9 3 7 4 6    7 0 9 1 1
+Sorted list pair: 3 4 6 7 9    0 1 1 7 9
+Read: 26934   58536
+
+Read list pair: 2 6 9 3 4    5 8 5 3 6
+Sorted list pair: 2 3 4 6 9    3 5 5 6 8
+Read: 11606   15968
+
+Read list pair: 1 1 6 0 6    1 5 9 6 8
+Sorted list pair: 0 1 1 6 6    1 5 6 8 9
+Read: 90273   58100
+
+Read list pair: 9 0 2 7 3    5 8 1 0 0
+Sorted list pair: 0 2 3 7 9    0 0 1 5 8
+Read: 45589   87216
+
+Read list pair: 4 5 5 8 9    8 7 2 1 6
+Sorted list pair: 4 5 5 8 9    1 2 6 7 8
+Read: 34588   85214
+
+Read list pair: 3 4 5 8 8    8 5 2 1 4
+Sorted list pair: 3 4 5 8 8    1 2 4 5 8
+Read: 90198   40865
+
+Read list pair: 9 0 1 9 8    4 0 8 6 5
+Sorted list pair: 0 1 8 9 9    0 4 5 6 8
+Read: 99412   18291
+
+Read list pair: 9 9 4 1 2    1 8 2 9 1
+Sorted list pair: 1 2 4 9 9    1 1 2 8 9
+Read: 73574   92718
+
+Read list pair: 7 3 5 7 4    9 2 7 1 8
+Sorted list pair: 3 4 5 7 7    1 2 7 8 9
+Read: 21438   61699
+
+Read list pair: 2 1 4 3 8    6 1 6 9 9
+Sorted list pair: 1 2 3 4 8    1 6 6 9 9
+Read: 75457   85579
+
+Read list pair: 7 5 4 5 7    8 5 5 7 9
+Sorted list pair: 4 5 5 7 7    5 5 7 8 9
+Read: 64991   59375
+
+Read list pair: 6 4 9 9 1    5 9 3 7 5
+Sorted list pair: 1 4 6 9 9    3 5 5 7 9
+Read: 17631   19103
+
+Read list pair: 1 7 6 3 1    1 9 1 0 3
+Sorted list pair: 1 1 3 6 7    0 1 1 3 9
+Read: 77182   20233
+
+Read list pair: 7 7 1 8 2    2 0 2 3 3
+Sorted list pair: 1 2 7 7 8    0 2 2 3 3
+Read: 78920   28543
+
+Read list pair: 7 8 9 2 0    2 8 5 4 3
+Sorted list pair: 0 2 7 8 9    2 3 4 5 8
+Read: 81239   86731
+
+Read list pair: 8 1 2 3 9    8 6 7 3 1
+Sorted list pair: 1 2 3 8 9    1 3 6 7 8
+Read: 22547   63907
+
+Read list pair: 2 2 5 4 7    6 3 9 0 7
+Sorted list pair: 2 2 4 5 7    0 3 6 7 9
+Read: 51155   32788
+
+Read list pair: 5 1 1 5 5    3 2 7 8 8
+Sorted list pair: 1 1 5 5 5    2 3 7 8 8
+Read: 79249   58100
+
+Read list pair: 7 9 2 4 9    5 8 1 0 0
+Sorted list pair: 2 4 7 9 9    0 0 1 5 8
+Read: 90671   90991
+
+Read list pair: 9 0 6 7 1    9 0 9 9 1
+Sorted list pair: 0 1 6 7 9    0 1 9 9 9
+Read: 85690   78392
+
+Read list pair: 8 5 6 9 0    7 8 3 9 2
+Sorted list pair: 0 5 6 8 9    2 3 7 8 9
+Read: 58921   70144
+
+Read list pair: 5 8 9 2 1    7 0 1 4 4
+Sorted list pair: 1 2 5 8 9    0 1 4 4 7
+Read: 21070   44410
+
+Read list pair: 2 1 0 7 0    4 4 4 1 0
+Sorted list pair: 0 0 1 2 7    0 1 4 4 4
+Read: 62699   72595
+
+Read list pair: 6 2 6 9 9    7 2 5 9 5
+Sorted list pair: 2 6 6 9 9    2 5 5 7 9
+Read: 49573   69124
+
+Read list pair: 4 9 5 7 3    6 9 1 2 4
+Sorted list pair: 3 4 5 7 9    1 2 4 6 9
+Read: 73725   73849
+
+Read list pair: 7 3 7 2 5    7 3 8 4 9
+Sorted list pair: 2 3 5 7 7    3 4 7 8 9
+Read: 88221   94676
+
+Read list pair: 8 8 2 2 1    9 4 6 7 6
+Sorted list pair: 1 2 2 8 8    4 6 6 7 9
+Read: 51718   99007
+
+Read list pair: 5 1 7 1 8    9 9 0 0 7
+Sorted list pair: 1 1 5 7 8    0 0 7 9 9
+Read: 99760   31236
+
+Read list pair: 9 9 7 6 0    3 1 2 3 6
+Sorted list pair: 0 6 7 9 9    1 2 3 3 6
+Read: 95185   94160
+
+Read list pair: 9 5 1 8 5    9 4 1 6 0
+Sorted list pair: 1 5 5 8 9    0 1 4 6 9
+Read: 87111   57839
+
+Read list pair: 8 7 1 1 1    5 7 8 3 9
+Sorted list pair: 1 1 1 7 8    3 5 7 8 9
+Read: 28467   15202
+
+Read list pair: 2 8 4 6 7    1 5 2 0 2
+Sorted list pair: 2 4 6 7 8    0 1 2 2 5
+Read: 42315   76351
+
+Read list pair: 4 2 3 1 5    7 6 3 5 1
+Sorted list pair: 1 2 3 4 5    1 3 5 6 7
+Read: 77827   79354
+
+Read list pair: 7 7 8 2 7    7 9 3 5 4
+Sorted list pair: 2 7 7 7 8    3 4 5 7 9
+Read: 95219   99760
+
+Read list pair: 9 5 2 1 9    9 9 7 6 0
+Sorted list pair: 1 2 5 9 9    0 6 7 9 9
+Read: 38147   30853
+
+Read list pair: 3 8 1 4 7    3 0 8 5 3
+Sorted list pair: 1 3 4 7 8    0 3 3 5 8
+Read: 64826   63321
+
+Read list pair: 6 4 8 2 6    6 3 3 2 1
+Sorted list pair: 2 4 6 6 8    1 2 3 3 6
+Read: 25471   16587
+
+Read list pair: 2 5 4 7 1    1 6 5 8 7
+Sorted list pair: 1 2 4 5 7    1 5 6 7 8
+Read: 10927   81296
+
+Read list pair: 1 0 9 2 7    8 1 2 9 6
+Sorted list pair: 0 1 2 7 9    1 2 6 8 9
+Read: 41546   41011
+
+Read list pair: 4 1 5 4 6    4 1 0 1 1
+Sorted list pair: 1 4 4 5 6    0 1 1 1 4
+Read: 37315   69111
+
+Read list pair: 3 7 3 1 5    6 9 1 1 1
+Sorted list pair: 1 3 3 5 7    1 1 1 6 9
+Read: 99327   38377
+
+Read list pair: 9 9 3 2 7    3 8 3 7 7
+Sorted list pair: 2 3 7 9 9    3 3 7 7 8
+Read: 85336   84238
+
+Read list pair: 8 5 3 3 6    8 4 2 3 8
+Sorted list pair: 3 3 5 6 8    2 3 4 8 8
+Read: 40804   30853
+
+Read list pair: 4 0 8 0 4    3 0 8 5 3
+Sorted list pair: 0 0 4 4 8    0 3 3 5 8
+Read: 53516   30853
+
+Read list pair: 5 3 5 1 6    3 0 8 5 3
+Sorted list pair: 1 3 5 5 6    0 3 3 5 8
+Read: 27810   70144
+
+Read list pair: 2 7 8 1 0    7 0 1 4 4
+Sorted list pair: 0 1 2 7 8    0 1 4 4 7
+Read: 69577   70694
+
+Read list pair: 6 9 5 7 7    7 0 6 9 4
+Sorted list pair: 5 6 7 7 9    0 4 6 7 9
+Read: 25624   38809
+
+Read list pair: 2 5 6 2 4    3 8 8 0 9
+Sorted list pair: 2 2 4 5 6    0 3 8 8 9
+Read: 49041   69884
+
+Read list pair: 4 9 0 4 1    6 9 8 8 4
+Sorted list pair: 0 1 4 4 9    4 6 8 8 9
+Read: 21503   74953
+
+Read list pair: 2 1 5 0 3    7 4 9 5 3
+Sorted list pair: 0 1 2 3 5    3 4 5 7 9
+Read: 73554   57055
+
+Read list pair: 7 3 5 5 4    5 7 0 5 5
+Sorted list pair: 3 4 5 5 7    0 5 5 5 7
+Read: 75671   69264
+
+Read list pair: 7 5 6 7 1    6 9 2 6 4
+Sorted list pair: 1 5 6 7 7    2 4 6 6 9
+Read: 35839   92687
+
+Read list pair: 3 5 8 3 9    9 2 6 8 7
+Sorted list pair: 3 3 5 8 9    2 6 7 8 9
+Read: 62809   49927
+
+Read list pair: 6 2 8 0 9    4 9 9 2 7
+Sorted list pair: 0 2 6 8 9    2 4 7 9 9
+Read: 38952   71861
+
+Read list pair: 3 8 9 5 2    7 1 8 6 1
+Sorted list pair: 2 3 5 8 9    1 1 6 7 8
+Read: 47433   94883
+
+Read list pair: 4 7 4 3 3    9 4 8 8 3
+Sorted list pair: 3 3 4 4 7    3 4 8 8 9
+Read: 83751   84179
+
+Read list pair: 8 3 7 5 1    8 4 1 7 9
+Sorted list pair: 1 3 5 7 8    1 4 7 8 9
+Read: 96703   59295
+
+Read list pair: 9 6 7 0 3    5 9 2 9 5
+Sorted list pair: 0 3 6 7 9    2 5 5 9 9
+Read: 14937   71861
+
+Read list pair: 1 4 9 3 7    7 1 8 6 1
+Sorted list pair: 1 3 4 7 9    1 1 6 7 8
+Read: 88960   47466
+
+Read list pair: 8 8 9 6 0    4 7 4 6 6
+Sorted list pair: 0 6 8 8 9    4 4 6 6 7
+Read: 95895   44999
+
+Read list pair: 9 5 8 9 5    4 4 9 9 9
+Sorted list pair: 5 5 8 9 9    4 4 9 9 9
+Read: 10816   92718
+
+Read list pair: 1 0 8 1 6    9 2 7 1 8
+Sorted list pair: 0 1 1 6 8    1 2 7 8 9
+Read: 53349   58536
+
+Read list pair: 5 3 3 4 9    5 8 5 3 6
+Sorted list pair: 3 3 4 5 9    3 5 5 6 8
+Read: 78701   15202
+
+Read list pair: 7 8 7 0 1    1 5 2 0 2
+Sorted list pair: 0 1 7 7 8    0 1 2 2 5
+Read: 88121   40271
+
+Read list pair: 8 8 1 2 1    4 0 2 7 1
+Sorted list pair: 1 1 2 8 8    0 1 2 4 7
+Read: 34593   68809
+
+Read list pair: 3 4 5 9 3    6 8 8 0 9
+Sorted list pair: 3 3 4 5 9    0 6 8 8 9
+Read: 54762   81665
+
+Read list pair: 5 4 7 6 2    8 1 6 6 5
+Sorted list pair: 2 4 5 6 7    1 5 6 6 8
+Read: 43571   77689
+
+Read list pair: 4 3 5 7 1    7 7 6 8 9
+Sorted list pair: 1 3 4 5 7    6 7 7 8 9
+Read: 55916   40089
+
+Read list pair: 5 5 9 1 6    4 0 0 8 9
+Sorted list pair: 1 5 5 6 9    0 0 4 8 9
+Read: 40645   36311
+
+Read list pair: 4 0 6 4 5    3 6 3 1 1
+Sorted list pair: 0 4 4 5 6    1 1 3 3 6
+Read: 31607   40497
+
+Read list pair: 3 1 6 0 7    4 0 4 9 7
+Sorted list pair: 0 1 3 6 7    0 4 4 7 9
+Read: 81871   58536
+
+Read list pair: 8 1 8 7 1    5 8 5 3 6
+Sorted list pair: 1 1 7 8 8    3 5 5 6 8
+Read: 59108   11885
+
+Read list pair: 5 9 1 0 8    1 1 8 8 5
+Sorted list pair: 0 1 5 8 9    1 1 5 8 8
+Read: 51170   81665
+
+Read list pair: 5 1 1 7 0    8 1 6 6 5
+Sorted list pair: 0 1 1 5 7    1 5 6 6 8
+Read: 92491   50670
+
+Read list pair: 9 2 4 9 1    5 0 6 7 0
+Sorted list pair: 1 2 4 9 9    0 0 5 6 7
+Read: 52658   58212
+
+Read list pair: 5 2 6 5 8    5 8 2 1 2
+Sorted list pair: 2 5 5 6 8    1 2 2 5 8
+Read: 23221   90728
+
+Read list pair: 2 3 2 2 1    9 0 7 2 8
+Sorted list pair: 1 2 2 2 3    0 2 7 8 9
+Read: 66538   78414
+
+Read list pair: 6 6 5 3 8    7 8 4 1 4
+Sorted list pair: 3 5 6 6 8    1 4 4 7 8
+Read: 15397   96177
+
+Read list pair: 1 5 3 9 7    9 6 1 7 7
+Sorted list pair: 1 3 5 7 9    1 6 7 7 9
+Read: 44490   63907
+
+Read list pair: 4 4 4 9 0    6 3 9 0 7
+Sorted list pair: 0 4 4 4 9    0 3 6 7 9
+Read: 74261   61699
+
+Read list pair: 7 4 2 6 1    6 1 6 9 9
+Sorted list pair: 1 2 4 6 7    1 6 6 9 9
+Read: 52527   52702
+
+Read list pair: 5 2 5 2 7    5 2 7 0 2
+Sorted list pair: 2 2 5 5 7    0 2 2 5 7
+Read: 54092   12090
+
+Read list pair: 5 4 0 9 2    1 2 0 9 0
+Sorted list pair: 0 2 4 5 9    0 0 1 2 9
+Read: 85887   44240
+
+Read list pair: 8 5 8 8 7    4 4 2 4 0
+Sorted list pair: 5 7 8 8 8    0 2 4 4 4
+Read: 81916   81665
+
+Read list pair: 8 1 9 1 6    8 1 6 6 5
+Sorted list pair: 1 1 6 8 9    1 5 6 6 8
+Read: 52917   24491
+
+Read list pair: 5 2 9 1 7    2 4 4 9 1
+Sorted list pair: 1 2 5 7 9    1 2 4 4 9
+Read: 63064   19043
+
+Read list pair: 6 3 0 6 4    1 9 0 4 3
+Sorted list pair: 0 3 4 6 6    0 1 3 4 9
+Read: 67656   60571
+
+Read list pair: 6 7 6 5 6    6 0 5 7 1
+Sorted list pair: 5 6 6 6 7    0 1 5 6 7
+Read: 46500   63907
+
+Read list pair: 4 6 5 0 0    6 3 9 0 7
+Sorted list pair: 0 0 4 5 6    0 3 6 7 9
+Read: 23513   83663
+
+Read list pair: 2 3 5 1 3    8 3 6 6 3
+Sorted list pair: 1 2 3 3 5    3 3 6 6 8
+Read: 89284   54975
+
+Read list pair: 8 9 2 8 4    5 4 9 7 5
+Sorted list pair: 2 4 8 8 9    4 5 5 7 9
+Read: 70144   28556
+
+Read list pair: 7 0 1 4 4    2 8 5 5 6
+Sorted list pair: 0 1 4 4 7    2 5 5 6 8
+Read: 99155   41011
+
+Read list pair: 9 9 1 5 5    4 1 0 1 1
+Sorted list pair: 1 5 5 9 9    0 1 1 1 4
+Read: 50425   84179
+
+Read list pair: 5 0 4 2 5    8 4 1 7 9
+Sorted list pair: 0 2 4 5 5    1 4 7 8 9
+Read: 68018   61813
+
+Read list pair: 6 8 0 1 8    6 1 8 1 3
+Sorted list pair: 0 1 6 8 8    1 1 3 6 8
+Read: 63893   32788
+
+Read list pair: 6 3 8 9 3    3 2 7 8 8
+Sorted list pair: 3 3 6 8 9    2 3 7 8 8
+Read: 63846   49310
+
+Read list pair: 6 3 8 4 6    4 9 3 1 0
+Sorted list pair: 3 4 6 6 8    0 1 3 4 9
+Read: 40331   85906
+
+Read list pair: 4 0 3 3 1    8 5 9 0 6
+Sorted list pair: 0 1 3 3 4    0 5 6 8 9
+Read: 37888   52413
+
+Read list pair: 3 7 8 8 8    5 2 4 1 3
+Sorted list pair: 3 7 8 8 8    1 2 3 4 5
+Read: 64681   15202
+
+Read list pair: 6 4 6 8 1    1 5 2 0 2
+Sorted list pair: 1 4 6 6 8    0 1 2 2 5
+Read: 18619   94298
+
+Read list pair: 1 8 6 1 9    9 4 2 9 8
+Sorted list pair: 1 1 6 8 9    2 4 8 9 9
+Read: 29923   95681
+
+Read list pair: 2 9 9 2 3    9 5 6 8 1
+Sorted list pair: 2 2 3 9 9    1 5 6 8 9
+Read: 31156   72616
+
+Read list pair: 3 1 1 5 6    7 2 6 1 6
+Sorted list pair: 1 1 3 5 6    1 2 6 6 7
+Read: 70630   33220
+
+Read list pair: 7 0 6 3 0    3 3 2 2 0
+Sorted list pair: 0 0 3 6 7    0 2 2 3 3
+Read: 46149   29460
+
+Read list pair: 4 6 1 4 9    2 9 4 6 0
+Sorted list pair: 1 4 4 6 9    0 2 4 6 9
+Read: 79706   59024
+
+Read list pair: 7 9 7 0 6    5 9 0 2 4
+Sorted list pair: 0 6 7 7 9    0 2 4 5 9
+Read: 15202   58100
+
+Read list pair: 1 5 2 0 2    5 8 1 0 0
+Sorted list pair: 0 1 2 2 5    0 0 1 5 8
+Read: 38450   55528
+
+Read list pair: 3 8 4 5 0    5 5 5 2 8
+Sorted list pair: 0 3 4 5 8    2 5 5 5 8
+Read: 38540   64168
+
+Read list pair: 3 8 5 4 0    6 4 1 6 8
+Sorted list pair: 0 3 4 5 8    1 4 6 6 8
+Read: 44172   15202
+
+Read list pair: 4 4 1 7 2    1 5 2 0 2
+Sorted list pair: 1 2 4 4 7    0 1 2 2 5
+Read: 83218   29596
+
+Read list pair: 8 3 2 1 8    2 9 5 9 6
+Sorted list pair: 1 2 3 8 8    2 5 6 9 9
+Read: 87956   75221
+
+Read list pair: 8 7 9 5 6    7 5 2 2 1
+Sorted list pair: 5 6 7 8 9    1 2 2 5 7
+Read: 74674   29596
+
+Read list pair: 7 4 6 7 4    2 9 5 9 6
+Sorted list pair: 4 4 6 7 7    2 5 6 9 9
+Read: 32969   27529
+
+Read list pair: 3 2 9 6 9    2 7 5 2 9
+Sorted list pair: 2 3 6 9 9    2 2 5 7 9
+Read: 75354   70584
+
+Read list pair: 7 5 3 5 4    7 0 5 8 4
+Sorted list pair: 3 4 5 5 7    0 4 5 7 8
+Read: 80869   39769
+
+Read list pair: 8 0 8 6 9    3 9 7 6 9
+Sorted list pair: 0 6 8 8 9    3 6 7 9 9
+Read: 78375   79326
+
+Read list pair: 7 8 3 7 5    7 9 3 2 6
+Sorted list pair: 3 5 7 7 8    2 3 6 7 9
+Read: 26720   80104
+
+Read list pair: 2 6 7 2 0    8 0 1 0 4
+Sorted list pair: 0 2 2 6 7    0 0 1 4 8
+Read: 59064   93076
+
+Read list pair: 5 9 0 6 4    9 3 0 7 6
+Sorted list pair: 0 4 5 6 9    0 3 6 7 9
+Read: 17369   26876
+
+Read list pair: 1 7 3 6 9    2 6 8 7 6
+Sorted list pair: 1 3 6 7 9    2 6 6 7 8
+Read: 71018   28093
+
+Read list pair: 7 1 0 1 8    2 8 0 9 3
+Sorted list pair: 0 1 1 7 8    0 2 3 8 9
+Read: 62410   94862
+
+Read list pair: 6 2 4 1 0    9 4 8 6 2
+Sorted list pair: 0 1 2 4 6    2 4 6 8 9
+Read: 34117   13591
+
+Read list pair: 3 4 1 1 7    1 3 5 9 1
+Sorted list pair: 1 1 3 4 7    1 1 3 5 9
+Read: 84414   77689
+
+Read list pair: 8 4 4 1 4    7 7 6 8 9
+Sorted list pair: 1 4 4 4 8    6 7 7 8 9
+Read: 72343   44999
+
+Read list pair: 7 2 3 4 3    4 4 9 9 9
+Sorted list pair: 2 3 3 4 7    4 4 9 9 9
+Read: 63907   66141
+
+Read list pair: 6 3 9 0 7    6 6 1 4 1
+Sorted list pair: 0 3 6 7 9    1 1 4 6 6
+Read: 71144   81665
+
+Read list pair: 7 1 1 4 4    8 1 6 6 5
+Sorted list pair: 1 1 4 4 7    1 5 6 6 8
+Read: 29415   66425
+
+Read list pair: 2 9 4 1 5    6 6 4 2 5
+Sorted list pair: 1 2 4 5 9    2 4 5 6 6
+Read: 88830   11982
+
+Read list pair: 8 8 8 3 0    1 1 9 8 2
+Sorted list pair: 0 3 8 8 8    1 1 2 8 9
+Read: 70188   22280
+
+Read list pair: 7 0 1 8 8    2 2 2 8 0
+Sorted list pair: 0 1 7 8 8    0 2 2 2 8
+Read: 53282   99760
+
+Read list pair: 5 3 2 8 2    9 9 7 6 0
+Sorted list pair: 2 2 3 5 8    0 6 7 9 9
+Read: 18318   63138
+
+Read list pair: 1 8 3 1 8    6 3 1 3 8
+Sorted list pair: 1 1 3 8 8    1 3 3 6 8
+Read: 60397   57539
+
+Read list pair: 6 0 3 9 7    5 7 5 3 9
+Sorted list pair: 0 3 6 7 9    3 5 5 7 9
+Read: 65195   41822
+
+Read list pair: 6 5 1 9 5    4 1 8 2 2
+Sorted list pair: 1 5 5 6 9    1 2 2 4 8
+Read: 24016   13700
+
+Read list pair: 2 4 0 1 6    1 3 7 0 0
+Sorted list pair: 0 1 2 4 6    0 0 1 3 7
+Read: 88135   74622
+
+Read list pair: 8 8 1 3 5    7 4 6 2 2
+Sorted list pair: 1 3 5 8 8    2 2 4 6 7
+Read: 14071   47193
+
+Read list pair: 1 4 0 7 1    4 7 1 9 3
+Sorted list pair: 0 1 1 4 7    1 3 4 7 9
+Read: 14685   98095
+
+Read list pair: 1 4 6 8 5    9 8 0 9 5
+Sorted list pair: 1 4 5 6 8    0 5 8 9 9
+Read: 95982   91801
+
+Read list pair: 9 5 9 8 2    9 1 8 0 1
+Sorted list pair: 2 5 8 9 9    0 1 1 8 9
+Read: 33811   72723
+
+Read list pair: 3 3 8 1 1    7 2 7 2 3
+Sorted list pair: 1 1 3 3 8    2 2 3 7 7
+Read: 29333   88953
+
+Read list pair: 2 9 3 3 3    8 8 9 5 3
+Sorted list pair: 2 3 3 3 9    3 5 8 8 9
+Read: 34084   86155
+
+Read list pair: 3 4 0 8 4    8 6 1 5 5
+Sorted list pair: 0 3 4 4 8    1 5 5 6 8
+Read: 56453   62127
+
+Read list pair: 5 6 4 5 3    6 2 1 2 7
+Sorted list pair: 3 4 5 5 6    1 2 2 6 7
+Read: 10338   90318
+
+Read list pair: 1 0 3 3 8    9 0 3 1 8
+Sorted list pair: 0 1 3 3 8    0 1 3 8 9
+Read: 42757   19402
+
+Read list pair: 4 2 7 5 7    1 9 4 0 2
+Sorted list pair: 2 4 5 7 7    0 1 2 4 9
+Read: 93976   63907
+
+Read list pair: 9 3 9 7 6    6 3 9 0 7
+Sorted list pair: 3 6 7 9 9    0 3 6 7 9
+Read: 76120   83403
+
+Read list pair: 7 6 1 2 0    8 3 4 0 3
+Sorted list pair: 0 1 2 6 7    0 3 3 4 8
+Read: 30463   94304
+
+Read list pair: 3 0 4 6 3    9 4 3 0 4
+Sorted list pair: 0 3 3 4 6    0 3 4 4 9
+Read: 13958   40271
+
+Read list pair: 1 3 9 5 8    4 0 2 7 1
+Sorted list pair: 1 3 5 8 9    0 1 2 4 7
+Read: 84845   99760
+
+Read list pair: 8 4 8 4 5    9 9 7 6 0
+Sorted list pair: 4 4 5 8 8    0 6 7 9 9
+Read: 64272   57736
+
+Read list pair: 6 4 2 7 2    5 7 7 3 6
+Sorted list pair: 2 2 4 6 7    3 5 6 7 7
+Read: 57418   35445
+
+Read list pair: 5 7 4 1 8    3 5 4 4 5
+Sorted list pair: 1 4 5 7 8    3 4 4 5 5
+Read: 77223   56497
+
+Read list pair: 7 7 2 2 3    5 6 4 9 7
+Sorted list pair: 2 2 3 7 7    4 5 6 7 9
+Read: 33423   75411
+
+Read list pair: 3 3 4 2 3    7 5 4 1 1
+Sorted list pair: 2 3 3 3 4    1 1 4 5 7
+Read: 41030   19106
+
+Read list pair: 4 1 0 3 0    1 9 1 0 6
+Sorted list pair: 0 0 1 3 4    0 1 1 6 9
+Read: 82698   15202
+
+Read list pair: 8 2 6 9 8    1 5 2 0 2
+Sorted list pair: 2 6 8 8 9    0 1 2 2 5
+Read: 29524   74256
+
+Read list pair: 2 9 5 2 4    7 4 2 5 6
+Sorted list pair: 2 2 4 5 9    2 4 5 6 7
+Read: 87764   77689
+
+Read list pair: 8 7 7 6 4    7 7 6 8 9
+Sorted list pair: 4 6 7 7 8    6 7 7 8 9
+Read: 86912   10187
+
+Read list pair: 8 6 9 1 2    1 0 1 8 7
+Sorted list pair: 1 2 6 8 9    0 1 1 7 8
+Read: 68742   59684
+
+Read list pair: 6 8 7 4 2    5 9 6 8 4
+Sorted list pair: 2 4 6 7 8    4 5 6 8 9
+Read: 76640   23589
+
+Read list pair: 7 6 6 4 0    2 3 5 8 9
+Sorted list pair: 0 4 6 6 7    2 3 5 8 9
+Read: 31500   17713
+
+Read list pair: 3 1 5 0 0    1 7 7 1 3
+Sorted list pair: 0 0 1 3 5    1 1 3 7 7
+Read: 23412   99007
+
+Read list pair: 2 3 4 1 2    9 9 0 0 7
+Sorted list pair: 1 2 2 3 4    0 0 7 9 9
+Read: 22908   58536
+
+Read list pair: 2 2 9 0 8    5 8 5 3 6
+Sorted list pair: 0 2 2 8 9    3 5 5 6 8
+Read: 56584   96889
+
+Read list pair: 5 6 5 8 4    9 6 8 8 9
+Sorted list pair: 4 5 5 6 8    6 8 8 9 9
+Read: 24442   83833
+
+Read list pair: 2 4 4 4 2    8 3 8 3 3
+Sorted list pair: 2 2 4 4 4    3 3 3 8 8
+Read: 19446   56714
+
+Read list pair: 1 9 4 4 6    5 6 7 1 4
+Sorted list pair: 1 4 4 6 9    1 4 5 6 7
+Read: 59337   72595
+
+Read list pair: 5 9 3 3 7    7 2 5 9 5
+Sorted list pair: 3 3 5 7 9    2 5 5 7 9
+Read: 60529   79345
+
+Read list pair: 6 0 5 2 9    7 9 3 4 5
+Sorted list pair: 0 2 5 6 9    3 4 5 7 9
+Read: 18771   52637
+
+Read list pair: 1 8 7 7 1    5 2 6 3 7
+Sorted list pair: 1 1 7 7 8    2 3 5 6 7
+Read: 69780   50379
+
+Read list pair: 6 9 7 8 0    5 0 3 7 9
+Sorted list pair: 0 6 7 8 9    0 3 5 7 9
+Read: 45080   41011
+
+Read list pair: 4 5 0 8 0    4 1 0 1 1
+Sorted list pair: 0 0 4 5 8    0 1 1 1 4
+Read: 90135   23400
+
+Read list pair: 9 0 1 3 5    2 3 4 0 0
+Sorted list pair: 0 1 3 5 9    0 0 2 3 4
+Read: 25259   15202
+
+Read list pair: 2 5 2 5 9    1 5 2 0 2
+Sorted list pair: 2 2 5 5 9    0 1 2 2 5
+Read: 16305   29881
+
+Read list pair: 1 6 3 0 5    2 9 8 8 1
+Sorted list pair: 0 1 3 5 6    1 2 8 8 9
+Read: 84260   41011
+
+Read list pair: 8 4 2 6 0    4 1 0 1 1
+Sorted list pair: 0 2 4 6 8    0 1 1 1 4
+Read: 90895   72595
+
+Read list pair: 9 0 8 9 5    7 2 5 9 5
+Sorted list pair: 0 5 8 9 9    2 5 5 7 9
+Read: 12543   38607
+
+Read list pair: 1 2 5 4 3    3 8 6 0 7
+Sorted list pair: 1 2 3 4 5    0 3 6 7 8
+Read: 11665   63907
+
+Read list pair: 1 1 6 6 5    6 3 9 0 7
+Sorted list pair: 1 1 5 6 6    0 3 6 7 9
+Read: 96978   81665
+
+Read list pair: 9 6 9 7 8    8 1 6 6 5
+Sorted list pair: 6 7 8 9 9    1 5 6 6 8
+Read: 52028   61190
+
+Read list pair: 5 2 0 2 8    6 1 1 9 0
+Sorted list pair: 0 2 2 5 8    0 1 1 6 9
+Read: 67233   52702
+
+Read list pair: 6 7 2 3 3    5 2 7 0 2
+Sorted list pair: 2 3 3 6 7    0 2 2 5 7
+Read: 20481   81204
+
+Read list pair: 2 0 4 8 1    8 1 2 0 4
+Sorted list pair: 0 1 2 4 8    0 1 2 4 8
+Read: 12111   70144
+
+Read list pair: 1 2 1 1 1    7 0 1 4 4
+Sorted list pair: 1 1 1 1 2    0 1 4 4 7
+Read: 20206   46595
+
+Read list pair: 2 0 2 0 6    4 6 5 9 5
+Sorted list pair: 0 0 2 2 6    4 5 5 6 9
+Read: 43424   69196
+
+Read list pair: 4 3 4 2 4    6 9 1 9 6
+Sorted list pair: 2 3 4 4 4    1 6 6 9 9
+Read: 29231   58536
+
+Read list pair: 2 9 2 3 1    5 8 5 3 6
+Sorted list pair: 1 2 2 3 9    3 5 5 6 8
+Read: 98098   55798
+
+Read list pair: 9 8 0 9 8    5 5 7 9 8
+Sorted list pair: 0 8 8 9 9    5 5 7 8 9
+Read: 60225   51890
+
+Read list pair: 6 0 2 2 5    5 1 8 9 0
+Sorted list pair: 0 2 2 5 6    0 1 5 8 9
+Read: 81665   97950
+
+Read list pair: 8 1 6 6 5    9 7 9 5 0
+Sorted list pair: 1 5 6 6 8    0 5 7 9 9
+Read: 50519   90597
+
+Read list pair: 5 0 5 1 9    9 0 5 9 7
+Sorted list pair: 0 1 5 5 9    0 5 7 9 9
+Read: 10405   75939
+
+Read list pair: 1 0 4 0 5    7 5 9 3 9
+Sorted list pair: 0 0 1 4 5    3 5 7 9 9
+Read: 67815   74916
+
+Read list pair: 6 7 8 1 5    7 4 9 1 6
+Sorted list pair: 1 5 6 7 8    1 4 6 7 9
+Read: 44903   61313
+
+Read list pair: 4 4 9 0 3    6 1 3 1 3
+Sorted list pair: 0 3 4 4 9    1 1 3 3 6
+Read: 57482   93791
+
+Read list pair: 5 7 4 8 2    9 3 7 9 1
+Sorted list pair: 2 4 5 7 8    1 3 7 9 9
+Read: 24477   85715
+
+Read list pair: 2 4 4 7 7    8 5 7 1 5
+Sorted list pair: 2 4 4 7 7    1 5 5 7 8
+Read: 47814   43158
+
+Read list pair: 4 7 8 1 4    4 3 1 5 8
+Sorted list pair: 1 4 4 7 8    1 3 4 5 8
+Read: 30230   15202
+
+Read list pair: 3 0 2 3 0    1 5 2 0 2
+Sorted list pair: 0 0 2 3 3    0 1 2 2 5
+Read: 62375   26876
+
+Read list pair: 6 2 3 7 5    2 6 8 7 6
+Sorted list pair: 2 3 5 6 7    2 6 6 7 8
+Read: 94004   70796
+
+Read list pair: 9 4 0 0 4    7 0 7 9 6
+Sorted list pair: 0 0 4 4 9    0 6 7 7 9
+Read: 75531   11460
+
+Read list pair: 7 5 5 3 1    1 1 4 6 0
+Sorted list pair: 1 3 5 5 7    0 1 1 4 6
+Read: 18327   71267
+
+Read list pair: 1 8 3 2 7    7 1 2 6 7
+Sorted list pair: 1 2 3 7 8    1 2 6 7 7
+Read: 52363   44947
+
+Read list pair: 5 2 3 6 3    4 4 9 4 7
+Sorted list pair: 2 3 3 5 6    4 4 4 7 9
+Read: 86594   44999
+
+Read list pair: 8 6 5 9 4    4 4 9 9 9
+Sorted list pair: 4 5 6 8 9    4 4 9 9 9
+Read: 46404   92745
+
+Read list pair: 4 6 4 0 4    9 2 7 4 5
+Sorted list pair: 0 4 4 4 6    2 4 5 7 9
+Read: 90532   39065
+
+Read list pair: 9 0 5 3 2    3 9 0 6 5
+Sorted list pair: 0 2 3 5 9    0 3 5 6 9
+Read: 64807   30853
+
+Read list pair: 6 4 8 0 7    3 0 8 5 3
+Sorted list pair: 0 4 6 7 8    0 3 3 5 8
+Read: 24401   52702
+
+Read list pair: 2 4 4 0 1    5 2 7 0 2
+Sorted list pair: 0 1 2 4 4    0 2 2 5 7
+Read: 91341   52563
+
+Read list pair: 9 1 3 4 1    5 2 5 6 3
+Sorted list pair: 1 1 3 4 9    2 3 5 5 6
+Read: 84207   62127
+
+Read list pair: 8 4 2 0 7    6 2 1 2 7
+Sorted list pair: 0 2 4 7 8    1 2 2 6 7
+Read: 71087   73532
+
+Read list pair: 7 1 0 8 7    7 3 5 3 2
+Sorted list pair: 0 1 7 7 8    2 3 3 5 7
+Read: 63113   44999
+
+Read list pair: 6 3 1 1 3    4 4 9 9 9
+Sorted list pair: 1 1 3 3 6    4 4 9 9 9
+Read: 43813   74297
+
+Read list pair: 4 3 8 1 3    7 4 2 9 7
+Sorted list pair: 1 3 3 4 8    2 4 7 7 9
+Read: 59883   66327
+
+Read list pair: 5 9 8 8 3    6 6 3 2 7
+Sorted list pair: 3 5 8 8 9    2 3 6 6 7
+Read: 32173   91360
+
+Read list pair: 3 2 1 7 3    9 1 3 6 0
+Sorted list pair: 1 2 3 3 7    0 1 3 6 9
+Read: 18376   64927
+
+Read list pair: 1 8 3 7 6    6 4 9 2 7
+Sorted list pair: 1 3 6 7 8    2 4 6 7 9
+Read: 13447   26876
+
+Read list pair: 1 3 4 4 7    2 6 8 7 6
+Sorted list pair: 1 3 4 4 7    2 6 6 7 8
+Read: 20860   73532
+
+Read list pair: 2 0 8 6 0    7 3 5 3 2
+Sorted list pair: 0 0 2 6 8    2 3 3 5 7
+Read: 90448   22528
+
+Read list pair: 9 0 4 4 8    2 2 5 2 8
+Sorted list pair: 0 4 4 8 9    2 2 2 5 8
+Read: 61857   59032
+
+Read list pair: 6 1 8 5 7    5 9 0 3 2
+Sorted list pair: 1 5 6 7 8    0 2 3 5 9
+Read: 98601   77689
+
+Read list pair: 9 8 6 0 1    7 7 6 8 9
+Sorted list pair: 0 1 6 8 9    6 7 7 8 9
+Read: 48533   95904
+
+Read list pair: 4 8 5 3 3    9 5 9 0 4
+Sorted list pair: 3 3 4 5 8    0 4 5 9 9
+Read: 43074   80112
+
+Read list pair: 4 3 0 7 4    8 0 1 1 2
+Sorted list pair: 0 3 4 4 7    0 1 1 2 8
+Read: 77210   40271
+
+Read list pair: 7 7 2 1 0    4 0 2 7 1
+Sorted list pair: 0 1 2 7 7    0 1 2 4 7
+Read: 30853   77689
+
+Read list pair: 3 0 8 5 3    7 7 6 8 9
+Sorted list pair: 0 3 3 5 8    6 7 7 8 9
+Read: 66535   90757
+
+Read list pair: 6 6 5 3 5    9 0 7 5 7
+Sorted list pair: 3 5 5 6 6    0 5 7 7 9
+Read: 73022   24042
+
+Read list pair: 7 3 0 2 2    2 4 0 4 2
+Sorted list pair: 0 2 2 3 7    0 2 2 4 4
+Read: 40271   58513
+
+Read list pair: 4 0 2 7 1    5 8 5 1 3
+Sorted list pair: 0 1 2 4 7    1 3 5 5 8
+Read: 83490   84179
+
+Read list pair: 8 3 4 9 0    8 4 1 7 9
+Sorted list pair: 0 3 4 8 9    1 4 7 8 9
+Read: 34711   19907
+
+Read list pair: 3 4 7 1 1    1 9 9 0 7
+Sorted list pair: 1 1 3 4 7    0 1 7 9 9
+Read: 93977   90225
+
+Read list pair: 9 3 9 7 7    9 0 2 2 5
+Sorted list pair: 3 7 7 9 9    0 2 2 5 9
+Read: 48807   56714
+
+Read list pair: 4 8 8 0 7    5 6 7 1 4
+Sorted list pair: 0 4 7 8 8    1 4 5 6 7
+Read: 54844   81665
+
+Read list pair: 5 4 8 4 4    8 1 6 6 5
+Sorted list pair: 4 4 4 5 8    1 5 6 6 8
+Read: 32392   26876
+
+Read list pair: 3 2 3 9 2    2 6 8 7 6
+Sorted list pair: 2 2 3 3 9    2 6 6 7 8
+Read: 96732   99760
+
+Read list pair: 9 6 7 3 2    9 9 7 6 0
+Sorted list pair: 2 3 6 7 9    0 6 7 9 9
+Read: 97627   25611
+
+Read list pair: 9 7 6 2 7    2 5 6 1 1
+Sorted list pair: 2 6 7 7 9    1 1 2 5 6
+Read: 60706   72595
+
+Read list pair: 6 0 7 0 6    7 2 5 9 5
+Sorted list pair: 0 0 6 6 7    2 5 5 7 9
+Read: 80954   56714
+
+Read list pair: 8 0 9 5 4    5 6 7 1 4
+Sorted list pair: 0 4 5 8 9    1 4 5 6 7
+Read: 85719   84179
+
+Read list pair: 8 5 7 1 9    8 4 1 7 9
+Sorted list pair: 1 5 7 8 9    1 4 7 8 9
+Read: 72831   16614
+
+Read list pair: 7 2 8 3 1    1 6 6 1 4
+Sorted list pair: 1 2 3 7 8    1 1 4 6 6
+Read: 31090   27039
+
+Read list pair: 3 1 0 9 0    2 7 0 3 9
+Sorted list pair: 0 0 1 3 9    0 2 3 7 9
+Read: 33058   29333
+
+Read list pair: 3 3 0 5 8    2 9 3 3 3
+Sorted list pair: 0 3 3 5 8    2 3 3 3 9
+Read: 63877   29596
+
+Read list pair: 6 3 8 7 7    2 9 5 9 6
+Sorted list pair: 3 6 7 7 8    2 5 6 9 9
+Read: 72421   90853
+
+Read list pair: 7 2 4 2 1    9 0 8 5 3
+Sorted list pair: 1 2 2 4 7    0 3 5 8 9
+Read: 15747   77367
+
+Read list pair: 1 5 7 4 7    7 7 3 6 7
+Sorted list pair: 1 4 5 7 7    3 6 7 7 7
+Read: 40917   32788
+
+Read list pair: 4 0 9 1 7    3 2 7 8 8
+Sorted list pair: 0 1 4 7 9    2 3 7 8 8
+Read: 81013   17450
+
+Read list pair: 8 1 0 1 3    1 7 4 5 0
+Sorted list pair: 0 1 1 3 8    0 1 4 5 7
+Read: 89899   99199
+
+Read list pair: 8 9 8 9 9    9 9 1 9 9
+Sorted list pair: 8 8 9 9 9    1 9 9 9 9
+Read: 30106   71861
+
+Read list pair: 3 0 1 0 6    7 1 8 6 1
+Sorted list pair: 0 0 1 3 6    1 1 6 7 8
+Read: 25280   44999
+
+Read list pair: 2 5 2 8 0    4 4 9 9 9
+Sorted list pair: 0 2 2 5 8    4 4 9 9 9
+Read: 55196   62277
+
+Read list pair: 5 5 1 9 6    6 2 2 7 7
+Sorted list pair: 1 5 5 6 9    2 2 6 7 7
+Read: 70682   33511
+
+Read list pair: 7 0 6 8 2    3 3 5 1 1
+Sorted list pair: 0 2 6 7 8    1 1 3 3 5
+Read: 82706   15417
+
+Read list pair: 8 2 7 0 6    1 5 4 1 7
+Sorted list pair: 0 2 6 7 8    1 1 4 5 7
+Read: 32623   56714
+
+Read list pair: 3 2 6 2 3    5 6 7 1 4
+Sorted list pair: 2 2 3 3 6    1 4 5 6 7
+Read: 71868   95563
+
+Read list pair: 7 1 8 6 8    9 5 5 6 3
+Sorted list pair: 1 6 7 8 8    3 5 5 6 9
+Read: 31828   15968
+
+Read list pair: 3 1 8 2 8    1 5 9 6 8
+Sorted list pair: 1 2 3 8 8    1 5 6 8 9
+Read: 13986   44897
+
+Read list pair: 1 3 9 8 6    4 4 8 9 7
+Sorted list pair: 1 3 6 8 9    4 4 7 8 9
+Read: 42490   77695
+
+Read list pair: 4 2 4 9 0    7 7 6 9 5
+Sorted list pair: 0 2 4 4 9    5 6 7 7 9
+Read: 97842   11333
+
+Read list pair: 9 7 8 4 2    1 1 3 3 3
+Sorted list pair: 2 4 7 8 9    1 1 3 3 3
+Read: 47535   51124
+
+Read list pair: 4 7 5 3 5    5 1 1 2 4
+Sorted list pair: 3 4 5 5 7    1 1 2 4 5
+Read: 92501   58848
+
+Read list pair: 9 2 5 0 1    5 8 8 4 8
+Sorted list pair: 0 1 2 5 9    4 5 8 8 8
+Read: 23972   80539
+
+Read list pair: 2 3 9 7 2    8 0 5 3 9
+Sorted list pair: 2 2 3 7 9    0 3 5 8 9
+Read: 90629   35766
+
+Read list pair: 9 0 6 2 9    3 5 7 6 6
+Sorted list pair: 0 2 6 9 9    3 5 6 6 7
+Read: 99801   13773
+
+Read list pair: 9 9 8 0 1    1 3 7 7 3
+Sorted list pair: 0 1 8 9 9    1 3 3 7 7
+Read: 97880   10299
+
+Read list pair: 9 7 8 8 0    1 0 2 9 9
+Sorted list pair: 0 7 8 8 9    0 1 2 9 9
+Read: 67699   77976
+
+Read list pair: 6 7 6 9 9    7 7 9 7 6
+Sorted list pair: 6 6 7 9 9    6 7 7 7 9
+Read: 44374   68427
+
+Read list pair: 4 4 3 7 4    6 8 4 2 7
+Sorted list pair: 3 4 4 4 7    2 4 6 7 8
+Read: 12199   77367
+
+Read list pair: 1 2 1 9 9    7 7 3 6 7
+Sorted list pair: 1 1 2 9 9    3 6 7 7 7
+Read: 71056   15202
+
+Read list pair: 7 1 0 5 6    1 5 2 0 2
+Sorted list pair: 0 1 5 6 7    0 1 2 2 5
+Read: 76588   44999
+
+Read list pair: 7 6 5 8 8    4 4 9 9 9
+Sorted list pair: 5 6 7 8 8    4 4 9 9 9
+Read: 73579   57631
+
+Read list pair: 7 3 5 7 9    5 7 6 3 1
+Sorted list pair: 3 5 7 7 9    1 3 5 6 7
+Read: 99007   77689
+
+Read list pair: 9 9 0 0 7    7 7 6 8 9
+Sorted list pair: 0 0 7 9 9    6 7 7 8 9
+Read: 81619   53485
+
+Read list pair: 8 1 6 1 9    5 3 4 8 5
+Sorted list pair: 1 1 6 8 9    3 4 5 5 8
+Read: 31191   62127
+
+Read list pair: 3 1 1 9 1    6 2 1 2 7
+Sorted list pair: 1 1 1 3 9    1 2 2 6 7
+Read: 80056   84625
+
+Read list pair: 8 0 0 5 6    8 4 6 2 5
+Sorted list pair: 0 0 5 6 8    2 4 5 6 8
+Read: 64180   23225
+
+Read list pair: 6 4 1 8 0    2 3 2 2 5
+Sorted list pair: 0 1 4 6 8    2 2 2 3 5
+Read: 54280   99760
+
+Read list pair: 5 4 2 8 0    9 9 7 6 0
+Sorted list pair: 0 2 4 5 8    0 6 7 9 9
+Read: 39351   48787
+
+Read list pair: 3 9 3 5 1    4 8 7 8 7
+Sorted list pair: 1 3 3 5 9    4 7 7 8 8
+Read: 33694   72481
+
+Read list pair: 3 3 6 9 4    7 2 4 8 1
+Sorted list pair: 3 3 4 6 9    1 2 4 7 8
+Read: 59589   20554
+
+Read list pair: 5 9 5 8 9    2 0 5 5 4
+Sorted list pair: 5 5 8 9 9    0 2 4 5 5
+Read: 95067   73532
+
+Read list pair: 9 5 0 6 7    7 3 5 3 2
+Sorted list pair: 0 5 6 7 9    2 3 3 5 7
+Read: 91316   40271
+
+Read list pair: 9 1 3 1 6    4 0 2 7 1
+Sorted list pair: 1 1 3 6 9    0 1 2 4 7
+Read: 73532   26451
+
+Read list pair: 7 3 5 3 2    2 6 4 5 1
+Sorted list pair: 2 3 3 5 7    1 2 4 5 6
+Read: 49527   93539
+
+Read list pair: 4 9 5 2 7    9 3 5 3 9
+Sorted list pair: 2 4 5 7 9    3 3 5 9 9
+Read: 46775   80376
+
+Read list pair: 4 6 7 7 5    8 0 3 7 6
+Sorted list pair: 4 5 6 7 7    0 3 6 7 8
+Read: 79815   59637
+
+Read list pair: 7 9 8 1 5    5 9 6 3 7
+Sorted list pair: 1 5 7 8 9    3 5 6 7 9
+Read: 35690   57057
+
+Read list pair: 3 5 6 9 0    5 7 0 5 7
+Sorted list pair: 0 3 5 6 9    0 5 5 7 7
+Read: 78276   95579
+
+Read list pair: 7 8 2 7 6    9 5 5 7 9
+Sorted list pair: 2 6 7 7 8    5 5 7 9 9
+Read: 64869   71861
+
+Read list pair: 6 4 8 6 9    7 1 8 6 1
+Sorted list pair: 4 6 6 8 9    1 1 6 7 8
+Read: 14150   36760
+
+Read list pair: 1 4 1 5 0    3 6 7 6 0
+Sorted list pair: 0 1 1 4 5    0 3 6 6 7
+Read: 36529   69884
+
+Read list pair: 3 6 5 2 9    6 9 8 8 4
+Sorted list pair: 2 3 5 6 9    4 6 8 8 9
+Read: 41203   84659
+
+Read list pair: 4 1 2 0 3    8 4 6 5 9
+Sorted list pair: 0 1 2 3 4    4 5 6 8 9
+Read: 42188   52872
+
+Read list pair: 4 2 1 8 8    5 2 8 7 2
+Sorted list pair: 1 2 4 8 8    2 2 5 7 8
+Read: 59342   26876
+
+Read list pair: 5 9 3 4 2    2 6 8 7 6
+Sorted list pair: 2 3 4 5 9    2 6 6 7 8
+Read: 13743   15791
+
+Read list pair: 1 3 7 4 3    1 5 7 9 1
+Sorted list pair: 1 3 3 4 7    1 1 5 7 9
+Read: 35869   82919
+
+Read list pair: 3 5 8 6 9    8 2 9 1 9
+Sorted list pair: 3 5 6 8 9    1 2 8 9 9
+Read: 56530   50033
+
+Read list pair: 5 6 5 3 0    5 0 0 3 3
+Sorted list pair: 0 3 5 5 6    0 0 3 3 5
+Read: 46284   15202
+
+Read list pair: 4 6 2 8 4    1 5 2 0 2
+Sorted list pair: 2 4 4 6 8    0 1 2 2 5
+Read: 61154   69884
+
+Read list pair: 6 1 1 5 4    6 9 8 8 4
+Sorted list pair: 1 1 4 5 6    4 6 8 8 9
+Read: 35696   86345
+
+Read list pair: 3 5 6 9 6    8 6 3 4 5
+Sorted list pair: 3 5 6 6 9    3 4 5 6 8
+Read: 15254   61699
+
+Read list pair: 1 5 2 5 4    6 1 6 9 9
+Sorted list pair: 1 2 4 5 5    1 6 6 9 9
+Read: 57134   71533
+
+Read list pair: 5 7 1 3 4    7 1 5 3 3
+Sorted list pair: 1 3 4 5 7    1 3 3 5 7
+Read: 70825   21595
+
+Read list pair: 7 0 8 2 5    2 1 5 9 5
+Sorted list pair: 0 2 5 7 8    1 2 5 5 9
+Read: 66588   34391
+
+Read list pair: 6 6 5 8 8    3 4 3 9 1
+Sorted list pair: 5 6 6 8 8    1 3 3 4 9
+Read: 82940   16813
+
+Read list pair: 8 2 9 4 0    1 6 8 1 3
+Sorted list pair: 0 2 4 8 9    1 1 3 6 8
+Read: 13492   15968
+
+Read list pair: 1 3 4 9 2    1 5 9 6 8
+Sorted list pair: 1 2 3 4 9    1 5 6 8 9
+Read: 96700   71218
+
+Read list pair: 9 6 7 0 0    7 1 2 1 8
+Sorted list pair: 0 0 6 7 9    1 1 2 7 8
+Read: 97141   52702
+
+Read list pair: 9 7 1 4 1    5 2 7 0 2
+Sorted list pair: 1 1 4 7 9    0 2 2 5 7
+Read: 61389   38118
+
+Read list pair: 6 1 3 8 9    3 8 1 1 8
+Sorted list pair: 1 3 6 8 9    1 1 3 8 8
+Read: 97291   69884
+
+Read list pair: 9 7 2 9 1    6 9 8 8 4
+Sorted list pair: 1 2 7 9 9    4 6 8 8 9
+Read: 60721   26377
+
+Read list pair: 6 0 7 2 1    2 6 3 7 7
+Sorted list pair: 0 1 2 6 7    2 3 6 7 7
+Read: 51117   83200
+
+Read list pair: 5 1 1 1 7    8 3 2 0 0
+Sorted list pair: 1 1 1 5 7    0 0 2 3 8
+Read: 98847   50875
+
+Read list pair: 9 8 8 4 7    5 0 8 7 5
+Sorted list pair: 4 7 8 8 9    0 5 5 7 8
+Read: 87646   22249
+
+Read list pair: 8 7 6 4 6    2 2 2 4 9
+Sorted list pair: 4 6 6 7 8    2 2 2 4 9
+Read: 62478   14669
+
+Read list pair: 6 2 4 7 8    1 4 6 6 9
+Sorted list pair: 2 4 6 7 8    1 4 6 6 9
+Read: 79243   66768
+
+Read list pair: 7 9 2 4 3    6 6 7 6 8
+Sorted list pair: 2 3 4 7 9    6 6 6 7 8
+Read: 40877   30705
+
+Read list pair: 4 0 8 7 7    3 0 7 0 5
+Sorted list pair: 0 4 7 7 8    0 0 3 5 7
+Read: 85374   99760
+
+Read list pair: 8 5 3 7 4    9 9 7 6 0
+Sorted list pair: 3 4 5 7 8    0 6 7 9 9
+Read: 26483   97357
+
+Read list pair: 2 6 4 8 3    9 7 3 5 7
+Sorted list pair: 2 3 4 6 8    3 5 7 7 9
+Read: 50799   72595
+
+Read list pair: 5 0 7 9 9    7 2 5 9 5
+Sorted list pair: 0 5 7 9 9    2 5 5 7 9
+Read: 31201   63907
+
+Read list pair: 3 1 2 0 1    6 3 9 0 7
+Sorted list pair: 0 1 1 2 3    0 3 6 7 9
+Read: 69859   67933
+
+Read list pair: 6 9 8 5 9    6 7 9 3 3
+Sorted list pair: 5 6 8 9 9    3 3 6 7 9
+Read: 10162   97886
+
+Read list pair: 1 0 1 6 2    9 7 8 8 6
+Sorted list pair: 0 1 1 2 6    6 7 8 8 9
+Read: 65187   73532
+
+Read list pair: 6 5 1 8 7    7 3 5 3 2
+Sorted list pair: 1 5 6 7 8    2 3 3 5 7
+Read: 51941   99007
+
+Read list pair: 5 1 9 4 1    9 9 0 0 7
+Sorted list pair: 1 1 4 5 9    0 0 7 9 9
+Read: 61601   68668
+
+Read list pair: 6 1 6 0 1    6 8 6 6 8
+Sorted list pair: 0 1 1 6 6    6 6 6 8 8
+Read: 88266   71861
+
+Read list pair: 8 8 2 6 6    7 1 8 6 1
+Sorted list pair: 2 6 6 8 8    1 1 6 7 8
+Read: 77196   44999
+
+Read list pair: 7 7 1 9 6    4 4 9 9 9
+Sorted list pair: 1 6 7 7 9    4 4 9 9 9
+Read: 92169   26447
+
+Read list pair: 9 2 1 6 9    2 6 4 4 7
+Sorted list pair: 1 2 6 9 9    2 4 4 6 7
+Read: 35540   30408
+
+Read list pair: 3 5 5 4 0    3 0 4 0 8
+Sorted list pair: 0 3 4 5 5    0 0 3 4 8
+Read: 37333   96467
+
+Read list pair: 3 7 3 3 3    9 6 4 6 7
+Sorted list pair: 3 3 3 3 7    4 6 6 7 9
+Read: 91358   64059
+
+Read list pair: 9 1 3 5 8    6 4 0 5 9
+Sorted list pair: 1 3 5 8 9    0 4 5 6 9
+Read: 25360   25918
+
+Read list pair: 2 5 3 6 0    2 5 9 1 8
+Sorted list pair: 0 2 3 5 6    1 2 5 8 9
+Read: 79252   41453
+
+Read list pair: 7 9 2 5 2    4 1 4 5 3
+Sorted list pair: 2 2 5 7 9    1 3 4 4 5
+Read: 90858   95320
+
+Read list pair: 9 0 8 5 8    9 5 3 2 0
+Sorted list pair: 0 5 8 8 9    0 2 3 5 9
+Read: 29099   89894
+
+Read list pair: 2 9 0 9 9    8 9 8 9 4
+Sorted list pair: 0 2 9 9 9    4 8 8 9 9
+Read: 42949   57509
+
+Read list pair: 4 2 9 4 9    5 7 5 0 9
+Sorted list pair: 2 4 4 9 9    0 5 5 7 9
+Read: 44235   61265
+
+Read list pair: 4 4 2 3 5    6 1 2 6 5
+Sorted list pair: 2 3 4 4 5    1 2 5 6 6
+Read: 76836   30756
+
+Read list pair: 7 6 8 3 6    3 0 7 5 6
+Sorted list pair: 3 6 6 7 8    0 3 5 6 7
+Read: 58622   32788
+
+Read list pair: 5 8 6 2 2    3 2 7 8 8
+Sorted list pair: 2 2 5 6 8    2 3 7 8 8
+Read: 52544   88998
+
+Read list pair: 5 2 5 4 4    8 8 9 9 8
+Sorted list pair: 2 4 4 5 5    8 8 8 9 9
+Read: 83243   61839
+
+Read list pair: 8 3 2 4 3    6 1 8 3 9
+Sorted list pair: 2 3 3 4 8    1 3 6 8 9
+Read: 11550   81665
+
+Read list pair: 1 1 5 5 0    8 1 6 6 5
+Sorted list pair: 0 1 1 5 5    1 5 6 6 8
+Read: 75353   90674
+
+Read list pair: 7 5 3 5 3    9 0 6 7 4
+Sorted list pair: 3 3 5 5 7    0 4 6 7 9
+Read: 18733   49200
+
+Read list pair: 1 8 7 3 3    4 9 2 0 0
+Sorted list pair: 1 3 3 7 8    0 0 2 4 9
+Read: 44857   99760
+
+Read list pair: 4 4 8 5 7    9 9 7 6 0
+Sorted list pair: 4 4 5 7 8    0 6 7 9 9
+Read: 47917   18551
+
+Read list pair: 4 7 9 1 7    1 8 5 5 1
+Sorted list pair: 1 4 7 7 9    1 1 5 5 8
+Read: 46902   94882
+
+Read list pair: 4 6 9 0 2    9 4 8 8 2
+Sorted list pair: 0 2 4 6 9    2 4 8 8 9
+Read: 67800   50385
+
+Read list pair: 6 7 8 0 0    5 0 3 8 5
+Sorted list pair: 0 0 6 7 8    0 3 5 5 8
+Read: 66456   27826
+
+Read list pair: 6 6 4 5 6    2 7 8 2 6
+Sorted list pair: 4 5 6 6 6    2 2 6 7 8
+Read: 54772   35730
+
+Read list pair: 5 4 7 7 2    3 5 7 3 0
+Sorted list pair: 2 4 5 7 7    0 3 3 5 7
+Read: 29893   52702
+
+Read list pair: 2 9 8 9 3    5 2 7 0 2
+Sorted list pair: 2 3 8 9 9    0 2 2 5 7
+Read: 93137   69884
+
+Read list pair: 9 3 1 3 7    6 9 8 8 4
+Sorted list pair: 1 3 3 7 9    4 6 8 8 9
+Read: 78826   81665
+
+Read list pair: 7 8 8 2 6    8 1 6 6 5
+Sorted list pair: 2 6 7 8 8    1 5 6 6 8
+Read: 28223   22708
+
+Read list pair: 2 8 2 2 3    2 2 7 0 8
+Sorted list pair: 2 2 2 3 8    0 2 2 7 8
+Read: 54686   31988
+
+Read list pair: 5 4 6 8 6    3 1 9 8 8
+Sorted list pair: 4 5 6 6 8    1 3 8 8 9
+Read: 69884   31020
+
+Read list pair: 6 9 8 8 4    3 1 0 2 0
+Sorted list pair: 4 6 8 8 9    0 0 1 2 3
+Read: 65815   22691
+
+Read list pair: 6 5 8 1 5    2 2 6 9 1
+Sorted list pair: 1 5 5 6 8    1 2 2 6 9
+Read: 54404   68691
+
+Read list pair: 5 4 4 0 4    6 8 6 9 1
+Sorted list pair: 0 4 4 4 5    1 6 6 8 9
+Read: 33098   61699
+
+Read list pair: 3 3 0 9 8    6 1 6 9 9
+Sorted list pair: 0 3 3 8 9    1 6 6 9 9
+Read: 31777   87837
+
+Read list pair: 3 1 7 7 7    8 7 8 3 7
+Sorted list pair: 1 3 7 7 7    3 7 7 8 8
+Read: 55080   92718
+
+Read list pair: 5 5 0 8 0    9 2 7 1 8
+Sorted list pair: 0 0 5 5 8    1 2 7 8 9
+Read: 52404   17012
+
+Read list pair: 5 2 4 0 4    1 7 0 1 2
+Sorted list pair: 0 2 4 4 5    0 1 1 2 7
+Read: 78426   99007
+
+Read list pair: 7 8 4 2 6    9 9 0 0 7
+Sorted list pair: 2 4 6 7 8    0 0 7 9 9
+Read: 86123   33334
+
+Read list pair: 8 6 1 2 3    3 3 3 3 4
+Sorted list pair: 1 2 3 6 8    3 3 3 3 4
+Read: 38248   21362
+
+Read list pair: 3 8 2 4 8    2 1 3 6 2
+Sorted list pair: 2 3 4 8 8    1 2 2 3 6
+Read: 18775   92718
+
+Read list pair: 1 8 7 7 5    9 2 7 1 8
+Sorted list pair: 1 5 7 7 8    1 2 7 8 9
+Read: 18300   84179
+
+Read list pair: 1 8 3 0 0    8 4 1 7 9
+Sorted list pair: 0 0 1 3 8    1 4 7 8 9
+Read: 68027   26566
+
+Read list pair: 6 8 0 2 7    2 6 5 6 6
+Sorted list pair: 0 2 6 7 8    2 5 6 6 6
+Read: 26944   58509
+
+Read list pair: 2 6 9 4 4    5 8 5 0 9
+Sorted list pair: 2 4 4 6 9    0 5 5 8 9
+Read: 96983   49850
+
+Read list pair: 9 6 9 8 3    4 9 8 5 0
+Sorted list pair: 3 6 8 9 9    0 4 5 8 9
+Read: 16112   73532
+
+Read list pair: 1 6 1 1 2    7 3 5 3 2
+Sorted list pair: 1 1 1 2 6    2 3 3 5 7
+Read: 22976   69884
+
+Read list pair: 2 2 9 7 6    6 9 8 8 4
+Sorted list pair: 2 2 6 7 9    4 6 8 8 9
+Read: 70019   58536
+
+Read list pair: 7 0 0 1 9    5 8 5 3 6
+Sorted list pair: 0 0 1 7 9    3 5 5 6 8
+Read: 99156   56912
+
+Read list pair: 9 9 1 5 6    5 6 9 1 2
+Sorted list pair: 1 5 6 9 9    1 2 5 6 9
+Read: 18554   56714
+
+Read list pair: 1 8 5 5 4    5 6 7 1 4
+Sorted list pair: 1 4 5 5 8    1 4 5 6 7
+Read: 34219   59289
+
+Read list pair: 3 4 2 1 9    5 9 2 8 9
+Sorted list pair: 1 2 3 4 9    2 5 8 9 9
+Read: 75604   46931
+
+Read list pair: 7 5 6 0 4    4 6 9 3 1
+Sorted list pair: 0 4 5 6 7    1 3 4 6 9
+Read: 93676   99760
+
+Read list pair: 9 3 6 7 6    9 9 7 6 0
+Sorted list pair: 3 6 6 7 9    0 6 7 9 9
+Read: 80075   44664
+
+Read list pair: 8 0 0 7 5    4 4 6 6 4
+Sorted list pair: 0 0 5 7 8    4 4 4 6 6
+Read: 61524   71190
+
+Read list pair: 6 1 5 2 4    7 1 1 9 0
+Sorted list pair: 1 2 4 5 6    0 1 1 7 9
+Read: 48559   83823
+
+Read list pair: 4 8 5 5 9    8 3 8 2 3
+Sorted list pair: 4 5 5 8 9    2 3 3 8 8
+Read: 79042   15968
+
+Read list pair: 7 9 0 4 2    1 5 9 6 8
+Sorted list pair: 0 2 4 7 9    1 5 6 8 9
+Read: 10187   63907
+
+Read list pair: 1 0 1 8 7    6 3 9 0 7
+Sorted list pair: 0 1 1 7 8    0 3 6 7 9
+Read: 81634   99760
+
+Read list pair: 8 1 6 3 4    9 9 7 6 0
+Sorted list pair: 1 3 4 6 8    0 6 7 9 9
+Read: 98757   45694
+
+Read list pair: 9 8 7 5 7    4 5 6 9 4
+Sorted list pair: 5 7 7 8 9    4 4 5 6 9
+Read: 95160   32788
+
+Read list pair: 9 5 1 6 0    3 2 7 8 8
+Sorted list pair: 0 1 5 6 9    2 3 7 8 8
+Read: 49758   62127
+
+Read list pair: 4 9 7 5 8    6 2 1 2 7
+Sorted list pair: 4 5 7 8 9    1 2 2 6 7
+Read: 34595   69729
+
+Read list pair: 3 4 5 9 5    6 9 7 2 9
+Sorted list pair: 3 4 5 5 9    2 6 7 9 9
+Read: 79509   75616
+
+Read list pair: 7 9 5 0 9    7 5 6 1 6
+Sorted list pair: 0 5 7 9 9    1 5 6 6 7
+Read: 70849   70765
+
+Read list pair: 7 0 8 4 9    7 0 7 6 5
+Sorted list pair: 0 4 7 8 9    0 5 6 7 7
+Read: 19823   99007
+
+Read list pair: 1 9 8 2 3    9 9 0 0 7
+Sorted list pair: 1 2 3 8 9    0 0 7 9 9
+Read: 11674   63907
+
+Read list pair: 1 1 6 7 4    6 3 9 0 7
+Sorted list pair: 1 1 4 6 7    0 3 6 7 9
+Read: 80688   26876
+
+Read list pair: 8 0 6 8 8    2 6 8 7 6
+Sorted list pair: 0 6 8 8 8    2 6 6 7 8
+Read: 68689   44999
+
+Read list pair: 6 8 6 8 9    4 4 9 9 9
+Sorted list pair: 6 6 8 8 9    4 4 9 9 9
+Read: 99145   30681
+
+Read list pair: 9 9 1 4 5    3 0 6 8 1
+Sorted list pair: 1 4 5 9 9    0 1 3 6 8
+Read: 29803   77689
+
+Read list pair: 2 9 8 0 3    7 7 6 8 9
+Sorted list pair: 0 2 3 8 9    6 7 7 8 9
+Read: 11195   26876
+
+Read list pair: 1 1 1 9 5    2 6 8 7 6
+Sorted list pair: 1 1 1 5 9    2 6 6 7 8
+Read: 39142   78046
+
+Read list pair: 3 9 1 4 2    7 8 0 4 6
+Sorted list pair: 1 2 3 4 9    0 4 6 7 8
+Read: 89735   99760
+
+Read list pair: 8 9 7 3 5    9 9 7 6 0
+Sorted list pair: 3 5 7 8 9    0 6 7 9 9
+Read: 17954   56702
+
+Read list pair: 1 7 9 5 4    5 6 7 0 2
+Sorted list pair: 1 4 5 7 9    0 2 5 6 7
+Read: 35483   24463
+
+Read list pair: 3 5 4 8 3    2 4 4 6 3
+Sorted list pair: 3 3 4 5 8    2 3 4 4 6
+Read: 24596   55483
+
+Read list pair: 2 4 5 9 6    5 5 4 8 3
+Sorted list pair: 2 4 5 6 9    3 4 5 5 8
+Read: 29573   86792
+
+Read list pair: 2 9 5 7 3    8 6 7 9 2
+Sorted list pair: 2 3 5 7 9    2 6 7 8 9
+Read: 40311   69884
+
+Read list pair: 4 0 3 1 1    6 9 8 8 4
+Sorted list pair: 0 1 1 3 4    4 6 8 8 9
+Read: 36696   79954
+
+Read list pair: 3 6 6 9 6    7 9 9 5 4
+Sorted list pair: 3 6 6 6 9    4 5 7 9 9
+Read: 71770   84179
+
+Read list pair: 7 1 7 7 0    8 4 1 7 9
+Sorted list pair: 0 1 7 7 7    1 4 7 8 9
+Read: 48235   40271
+
+Read list pair: 4 8 2 3 5    4 0 2 7 1
+Sorted list pair: 2 3 4 5 8    0 1 2 4 7
+Read: 64473   98643
+
+Read list pair: 6 4 4 7 3    9 8 6 4 3
+Sorted list pair: 3 4 4 6 7    3 4 6 8 9
+Read: 10835   29037
+
+Read list pair: 1 0 8 3 5    2 9 0 3 7
+Sorted list pair: 0 1 3 5 8    0 2 3 7 9
+Read: 87315   40271
+
+Read list pair: 8 7 3 1 5    4 0 2 7 1
+Sorted list pair: 1 3 5 7 8    0 1 2 4 7
+Read: 82881   60460
+
+Read list pair: 8 2 8 8 1    6 0 4 6 0
+Sorted list pair: 1 2 8 8 8    0 0 4 6 6
+Read: 62963   22798
+
+Read list pair: 6 2 9 6 3    2 2 7 9 8
+Sorted list pair: 2 3 6 6 9    2 2 7 8 9
+Read: 26876   15558
+
+Read list pair: 2 6 8 7 6    1 5 5 5 8
+Sorted list pair: 2 6 6 7 8    1 5 5 5 8
+Read: 23333   51990
+
+Read list pair: 2 3 3 3 3    5 1 9 9 0
+Sorted list pair: 2 3 3 3 3    0 1 5 9 9
+Read: 12241   33180
+
+Read list pair: 1 2 2 4 1    3 3 1 8 0
+Sorted list pair: 1 1 2 2 4    0 1 3 3 8
+Read: 77191   81665
+
+Read list pair: 7 7 1 9 1    8 1 6 6 5
+Sorted list pair: 1 1 7 7 9    1 5 6 6 8
+Read: 51847   62738
+
+Read list pair: 5 1 8 4 7    6 2 7 3 8
+Sorted list pair: 1 4 5 7 8    2 3 6 7 8
+Read: 29391   44999
+
+Read list pair: 2 9 3 9 1    4 4 9 9 9
+Sorted list pair: 1 2 3 9 9    4 4 9 9 9
+Read: 67769   59925
+
+Read list pair: 6 7 7 6 9    5 9 9 2 5
+Sorted list pair: 6 6 7 7 9    2 5 5 9 9
+Read: 86133   26025
+
+Read list pair: 8 6 1 3 3    2 6 0 2 5
+Sorted list pair: 1 3 3 6 8    0 2 2 5 6
+Read: 11156   56714
+
+Read list pair: 1 1 1 5 6    5 6 7 1 4
+Sorted list pair: 1 1 1 5 6    1 4 5 6 7
+Read: 78912   42186
+
+Read list pair: 7 8 9 1 2    4 2 1 8 6
+Sorted list pair: 1 2 7 8 9    1 2 4 6 8
+Read: 68345   58100
+
+Read list pair: 6 8 3 4 5    5 8 1 0 0
+Sorted list pair: 3 4 5 6 8    0 0 1 5 8
+Read: 33464   82105
+
+Read list pair: 3 3 4 6 4    8 2 1 0 5
+Sorted list pair: 3 3 4 4 6    0 1 2 5 8
+Read: 66618   63907
+
+Read list pair: 6 6 6 1 8    6 3 9 0 7
+Sorted list pair: 1 6 6 6 8    0 3 6 7 9
+Read: 48407   63946
+
+Read list pair: 4 8 4 0 7    6 3 9 4 6
+Sorted list pair: 0 4 4 7 8    3 4 6 6 9
+Read: 18442   81320
+
+Read list pair: 1 8 4 4 2    8 1 3 2 0
+Sorted list pair: 1 2 4 4 8    0 1 2 3 8
+Read: 88673   52220
+
+Read list pair: 8 8 6 7 3    5 2 2 2 0
+Sorted list pair: 3 6 7 8 8    0 2 2 2 5
+Read: 46467   84179
+
+Read list pair: 4 6 4 6 7    8 4 1 7 9
+Sorted list pair: 4 4 6 6 7    1 4 7 8 9
+Read: 75390   34795
+
+Read list pair: 7 5 3 9 0    3 4 7 9 5
+Sorted list pair: 0 3 5 7 9    3 4 5 7 9
+Read: 39665   26232
+
+Read list pair: 3 9 6 6 5    2 6 2 3 2
+Sorted list pair: 3 5 6 6 9    2 2 2 3 6
+Read: 38181   34226
+
+Read list pair: 3 8 1 8 1    3 4 2 2 6
+Sorted list pair: 1 1 3 8 8    2 2 3 4 6
+Read: 39508   21595
+
+Read list pair: 3 9 5 0 8    2 1 5 9 5
+Sorted list pair: 0 3 5 8 9    1 2 5 5 9
+Read: 99046   41455
+
+Read list pair: 9 9 0 4 6    4 1 4 5 5
+Sorted list pair: 0 4 6 9 9    1 4 4 5 5
+Read: 99124   58536
+
+Read list pair: 9 9 1 2 4    5 8 5 3 6
+Sorted list pair: 1 2 4 9 9    3 5 5 6 8
+Read: 10567   98228
+
+Read list pair: 1 0 5 6 7    9 8 2 2 8
+Sorted list pair: 0 1 5 6 7    2 2 8 8 9
+Read: 60543   71569
+
+Read list pair: 6 0 5 4 3    7 1 5 6 9
+Sorted list pair: 0 3 4 5 6    1 5 6 7 9
+Read: 43020   97889
+
+Read list pair: 4 3 0 2 0    9 7 8 8 9
+Sorted list pair: 0 0 2 3 4    7 8 8 9 9
+Read: 38858   40271
+
+Read list pair: 3 8 8 5 8    4 0 2 7 1
+Sorted list pair: 3 5 8 8 8    0 1 2 4 7
+Read: 29190   80539
+
+Read list pair: 2 9 1 9 0    8 0 5 3 9
+Sorted list pair: 0 1 2 9 9    0 3 5 8 9
+Read: 34739   62127
+
+Read list pair: 3 4 7 3 9    6 2 1 2 7
+Sorted list pair: 3 3 4 7 9    1 2 2 6 7
+Read: 89621   69560
+
+Read list pair: 8 9 6 2 1    6 9 5 6 0
+Sorted list pair: 1 2 6 8 9    0 5 6 6 9
+Read: 30771   58536
+
+Read list pair: 3 0 7 7 1    5 8 5 3 6
+Sorted list pair: 0 1 3 7 7    3 5 5 6 8
+Read: 57289   81665
+
+Read list pair: 5 7 2 8 9    8 1 6 6 5
+Sorted list pair: 2 5 7 8 9    1 5 6 6 8
+Read: 25790   99007
+
+Read list pair: 2 5 7 9 0    9 9 0 0 7
+Sorted list pair: 0 2 5 7 9    0 0 7 9 9
+Read: 75082   40873
+
+Read list pair: 7 5 0 8 2    4 0 8 7 3
+Sorted list pair: 0 2 5 7 8    0 3 4 7 8
+Read: 48883   77898
+
+Read list pair: 4 8 8 8 3    7 7 8 9 8
+Sorted list pair: 3 4 8 8 8    7 7 8 8 9
+Read: 84768   43568
+
+Read list pair: 8 4 7 6 8    4 3 5 6 8
+Sorted list pair: 4 6 7 8 8    3 4 5 6 8
+Read: 37225   52172
+
+Read list pair: 3 7 2 2 5    5 2 1 7 2
+Sorted list pair: 2 2 3 5 7    1 2 2 5 7
+Read: 69182   21856
+
+Read list pair: 6 9 1 8 2    2 1 8 5 6
+Sorted list pair: 1 2 6 8 9    1 2 5 6 8
+Read: 56054   15202
+
+Read list pair: 5 6 0 5 4    1 5 2 0 2
+Sorted list pair: 0 4 5 5 6    0 1 2 2 5
+Read: 88455   11998
+
+Read list pair: 8 8 4 5 5    1 1 9 9 8
+Sorted list pair: 4 5 5 8 8    1 1 8 9 9
+Read: 12595   81665
+
+Read list pair: 1 2 5 9 5    8 1 6 6 5
+Sorted list pair: 1 2 5 5 9    1 5 6 6 8
+Read: 42875   54145
+
+Read list pair: 4 2 8 7 5    5 4 1 4 5
+Sorted list pair: 2 4 5 7 8    1 4 4 5 5
+Read: 73926   44999
+
+Read list pair: 7 3 9 2 6    4 4 9 9 9
+Sorted list pair: 2 3 6 7 9    4 4 9 9 9
+Read: 36122   52702
+
+Read list pair: 3 6 1 2 2    5 2 7 0 2
+Sorted list pair: 1 2 2 3 6    0 2 2 5 7
+Read: 46708   99007
+
+Read list pair: 4 6 7 0 8    9 9 0 0 7
+Sorted list pair: 0 4 6 7 8    0 0 7 9 9
+Read: 29997   15202
+
+Read list pair: 2 9 9 9 7    1 5 2 0 2
+Sorted list pair: 2 7 9 9 9    0 1 2 2 5
+Read: 42745   98773
+
+Read list pair: 4 2 7 4 5    9 8 7 7 3
+Sorted list pair: 2 4 4 5 7    3 7 7 8 9
+Read: 42375   56714
+
+Read list pair: 4 2 3 7 5    5 6 7 1 4
+Sorted list pair: 2 3 4 5 7    1 4 5 6 7
+Read: 75274   20728
+
+Read list pair: 7 5 2 7 4    2 0 7 2 8
+Sorted list pair: 2 4 5 7 7    0 2 2 7 8
+Read: 88736   72595
+
+Read list pair: 8 8 7 3 6    7 2 5 9 5
+Sorted list pair: 3 6 7 8 8    2 5 5 7 9
+Read: 62127   56145
+
+Read list pair: 6 2 1 2 7    5 6 1 4 5
+Sorted list pair: 1 2 2 6 7    1 4 5 5 6
+Read: 26385   20846
+
+Read list pair: 2 6 3 8 5    2 0 8 4 6
+Sorted list pair: 2 3 5 6 8    0 2 4 6 8
+Read: 60047   26876
+
+Read list pair: 6 0 0 4 7    2 6 8 7 6
+Sorted list pair: 0 0 4 6 7    2 6 6 7 8
+Read: 73700   63508
+
+Read list pair: 7 3 7 0 0    6 3 5 0 8
+Sorted list pair: 0 0 3 7 7    0 3 5 6 8
+Read: 99967   56386
+
+Read list pair: 9 9 9 6 7    5 6 3 8 6
+Sorted list pair: 6 7 9 9 9    3 5 6 6 8
+Read: 91205   55219
+
+Read list pair: 9 1 2 0 5    5 5 2 1 9
+Sorted list pair: 0 1 2 5 9    1 2 5 5 9
+Read: 72084   17536
+
+Read list pair: 7 2 0 8 4    1 7 5 3 6
+Sorted list pair: 0 2 4 7 8    1 3 5 6 7
+Read: 11100   30853
+
+Read list pair: 1 1 1 0 0    3 0 8 5 3
+Sorted list pair: 0 0 1 1 1    0 3 3 5 8
+Read: 86461   63549
+
+Read list pair: 8 6 4 6 1    6 3 5 4 9
+Sorted list pair: 1 4 6 6 8    3 4 5 6 9
+Read: 44630   77689
+
+Read list pair: 4 4 6 3 0    7 7 6 8 9
+Sorted list pair: 0 3 4 4 6    6 7 7 8 9
+Read: 85895   51919
+
+Read list pair: 8 5 8 9 5    5 1 9 1 9
+Sorted list pair: 5 5 8 8 9    1 1 5 9 9
+Read: 68759   33484
+
+Read list pair: 6 8 7 5 9    3 3 4 8 4
+Sorted list pair: 5 6 7 8 9    3 3 4 4 8
+Read: 74502   71645
+
+Read list pair: 7 4 5 0 2    7 1 6 4 5
+Sorted list pair: 0 2 4 5 7    1 4 5 6 7
+Read: 19619   25720
+
+Read list pair: 1 9 6 1 9    2 5 7 2 0
+Sorted list pair: 1 1 6 9 9    0 2 2 5 7
+Read: 51879   22939
+
+Read list pair: 5 1 8 7 9    2 2 9 3 9
+Sorted list pair: 1 5 7 8 9    2 2 3 9 9
+Read: 93529   28809
+
+Read list pair: 9 3 5 2 9    2 8 8 0 9
+Sorted list pair: 2 3 5 9 9    0 2 8 8 9
+Read: 95744   44892
+
+Read list pair: 9 5 7 4 4    4 4 8 9 2
+Sorted list pair: 4 4 5 7 9    2 4 4 8 9
+Read: 71040   69884
+
+Read list pair: 7 1 0 4 0    6 9 8 8 4
+Sorted list pair: 0 0 1 4 7    4 6 8 8 9
+Read: 92283   10187
+
+Read list pair: 9 2 2 8 3    1 0 1 8 7
+Sorted list pair: 2 2 3 8 9    0 1 1 7 8
+Read: 69503   52702
+
+Read list pair: 6 9 5 0 3    5 2 7 0 2
+Sorted list pair: 0 3 5 6 9    0 2 2 5 7
+Read: 69366   32834
+
+Read list pair: 6 9 3 6 6    3 2 8 3 4
+Sorted list pair: 3 6 6 6 9    2 3 3 4 8
+Read: 77924   97954
+
+Read list pair: 7 7 9 2 4    9 7 9 5 4
+Sorted list pair: 2 4 7 7 9    4 5 7 9 9
+Read: 29331   17904
+
+Read list pair: 2 9 3 3 1    1 7 9 0 4
+Sorted list pair: 1 2 3 3 9    0 1 4 7 9
+Read: 53839   32788
+
+Read list pair: 5 3 8 3 9    3 2 7 8 8
+Sorted list pair: 3 3 5 8 9    2 3 7 8 8
+Read: 39040   92718
+
+Read list pair: 3 9 0 4 0    9 2 7 1 8
+Sorted list pair: 0 0 3 4 9    1 2 7 8 9
+Read: 77367   73532
+
+Read list pair: 7 7 3 6 7    7 3 5 3 2
+Sorted list pair: 3 6 7 7 7    2 3 3 5 7
+Read: 80212   58100
+
+Read list pair: 8 0 2 1 2    5 8 1 0 0
+Sorted list pair: 0 1 2 2 8    0 0 1 5 8
+Read: 46701   15968
+
+Read list pair: 4 6 7 0 1    1 5 9 6 8
+Sorted list pair: 0 1 4 6 7    1 5 6 8 9
+Read: 81778   64498
+
+Read list pair: 8 1 7 7 8    6 4 4 9 8
+Sorted list pair: 1 7 7 8 8    4 4 6 8 9
+Read: 98144   43740
+
+Read list pair: 9 8 1 4 4    4 3 7 4 0
+Sorted list pair: 1 4 4 8 9    0 3 4 4 7
+Read: 57572   83339
+
+Read list pair: 5 7 5 7 2    8 3 3 3 9
+Sorted list pair: 2 5 5 7 7    3 3 3 8 9
+Read: 58954   63907
+
+Read list pair: 5 8 9 5 4    6 3 9 0 7
+Sorted list pair: 4 5 5 8 9    0 3 6 7 9
+Read: 43061   69884
+
+Read list pair: 4 3 0 6 1    6 9 8 8 4
+Sorted list pair: 0 1 3 4 6    4 6 8 8 9
+Read: 33284   41119
+
+Read list pair: 3 3 2 8 4    4 1 1 1 9
+Sorted list pair: 2 3 3 4 8    1 1 1 4 9
+Read: 52046   98936
+
+Read list pair: 5 2 0 4 6    9 8 9 3 6
+Sorted list pair: 0 2 4 5 6    3 6 8 9 9
+Read: 43374   52702
+
+Read list pair: 4 3 3 7 4    5 2 7 0 2
+Sorted list pair: 3 3 4 4 7    0 2 2 5 7
+Read: 45680   30069
+
+Read list pair: 4 5 6 8 0    3 0 0 6 9
+Sorted list pair: 0 4 5 6 8    0 0 3 6 9
+Read: 58466   63907
+
+Read list pair: 5 8 4 6 6    6 3 9 0 7
+Sorted list pair: 4 5 6 6 8    0 3 6 7 9
+Read: 38467   70067
+
+Read list pair: 3 8 4 6 7    7 0 0 6 7
+Sorted list pair: 3 4 6 7 8    0 0 6 7 7
+Read: 41669   15479
+
+Read list pair: 4 1 6 6 9    1 5 4 7 9
+Sorted list pair: 1 4 6 6 9    1 4 5 7 9
+Read: 97829   40271
+
+Read list pair: 9 7 8 2 9    4 0 2 7 1
+Sorted list pair: 2 7 8 9 9    0 1 2 4 7
+Read: 61699   63907
+
+Read list pair: 6 1 6 9 9    6 3 9 0 7
+Sorted list pair: 1 6 6 9 9    0 3 6 7 9
+Read: 67033   10670
+
+Read list pair: 6 7 0 3 3    1 0 6 7 0
+Sorted list pair: 0 3 3 6 7    0 0 1 6 7
+Read: 85926   72595
+
+Read list pair: 8 5 9 2 6    7 2 5 9 5
+Sorted list pair: 2 5 6 8 9    2 5 5 7 9
+Read: 81216   30476
+
+Read list pair: 8 1 2 1 6    3 0 4 7 6
+Sorted list pair: 1 1 2 6 8    0 3 4 6 7
+Read: 51978   63846
+
+Read list pair: 5 1 9 7 8    6 3 8 4 6
+Sorted list pair: 1 5 7 8 9    3 4 6 6 8
+Read: 79287   81665
+
+Read list pair: 7 9 2 8 7    8 1 6 6 5
+Sorted list pair: 2 7 7 8 9    1 5 6 6 8
+Read: 23180   36540
+
+Read list pair: 2 3 1 8 0    3 6 5 4 0
+Sorted list pair: 0 1 2 3 8    0 3 4 5 6
+Read: 25437   25410
+
+Read list pair: 2 5 4 3 7    2 5 4 1 0
+Sorted list pair: 2 3 4 5 7    0 1 2 4 5
+Read: 39375   39888
+
+Read list pair: 3 9 3 7 5    3 9 8 8 8
+Sorted list pair: 3 3 5 7 9    3 8 8 8 9
+Read: 83920   52583
+
+Read list pair: 8 3 9 2 0    5 2 5 8 3
+Sorted list pair: 0 2 3 8 9    2 3 5 5 8
+Read: 66350   84179
+
+Read list pair: 6 6 3 5 0    8 4 1 7 9
+Sorted list pair: 0 3 5 6 6    1 4 7 8 9
+Read: 71374   52702
+
+Read list pair: 7 1 3 7 4    5 2 7 0 2
+Sorted list pair: 1 3 4 7 7    0 2 2 5 7
+Read: 43715   26936
+
+Read list pair: 4 3 7 1 5    2 6 9 3 6
+Sorted list pair: 1 3 4 5 7    2 3 6 6 9
+Read: 63974   77367
+
+Read list pair: 6 3 9 7 4    7 7 3 6 7
+Sorted list pair: 3 4 6 7 9    3 6 7 7 7
+Read: 23571   69884
+
+Read list pair: 2 3 5 7 1    6 9 8 8 4
+Sorted list pair: 1 2 3 5 7    4 6 8 8 9
+Read: 43184   84982
+
+Read list pair: 4 3 1 8 4    8 4 9 8 2
+Sorted list pair: 1 3 4 4 8    2 4 8 8 9
+Read: 89441   42511
+
+Read list pair: 8 9 4 4 1    4 2 5 1 1
+Sorted list pair: 1 4 4 8 9    1 1 2 4 5
+Read: 81551   44999
+
+Read list pair: 8 1 5 5 1    4 4 9 9 9
+Sorted list pair: 1 1 5 5 8    4 4 9 9 9
+Read: 10922   71861
+
+Read list pair: 1 0 9 2 2    7 1 8 6 1
+Sorted list pair: 0 1 2 2 9    1 1 6 7 8
+Read: 31029   29596
+
+Read list pair: 3 1 0 2 9    2 9 5 9 6
+Sorted list pair: 0 1 2 3 9    2 5 6 9 9
+Read: 60099   25656
+
+Read list pair: 6 0 0 9 9    2 5 6 5 6
+Sorted list pair: 0 0 6 9 9    2 5 5 6 6
+Read: 84341   28350
+
+Read list pair: 8 4 3 4 1    2 8 3 5 0
+Sorted list pair: 1 3 4 4 8    0 2 3 5 8
+Read: 87757   99007
+
+Read list pair: 8 7 7 5 7    9 9 0 0 7
+Sorted list pair: 5 7 7 7 8    0 0 7 9 9
+Read: 23597   15202
+
+Read list pair: 2 3 5 9 7    1 5 2 0 2
+Sorted list pair: 2 3 5 7 9    0 1 2 2 5
+Read: 78234   26876
+
+Read list pair: 7 8 2 3 4    2 6 8 7 6
+Sorted list pair: 2 3 4 7 8    2 6 6 7 8
+Read: 56131   96770
+
+Read list pair: 5 6 1 3 1    9 6 7 7 0
+Sorted list pair: 1 1 3 5 6    0 6 7 7 9
+Read: 52135   97828
+
+Read list pair: 5 2 1 3 5    9 7 8 2 8
+Sorted list pair: 1 2 3 5 5    2 7 8 8 9
+Read: 26696   17764
+
+Read list pair: 2 6 6 9 6    1 7 7 6 4
+Sorted list pair: 2 6 6 6 9    1 4 6 7 7
+Read: 17491   99007
+
+Read list pair: 1 7 4 9 1    9 9 0 0 7
+Sorted list pair: 1 1 4 7 9    0 0 7 9 9
+Read: 86740   60265
+
+Read list pair: 8 6 7 4 0    6 0 2 6 5
+Sorted list pair: 0 4 6 7 8    0 2 5 6 6
+Read: 53289   77689
+
+Read list pair: 5 3 2 8 9    7 7 6 8 9
+Sorted list pair: 2 3 5 8 9    6 7 7 8 9
+Read: 60718   52171
+
+Read list pair: 6 0 7 1 8    5 2 1 7 1
+Sorted list pair: 0 1 6 7 8    1 1 2 5 7
+Read: 57714   87530
+
+Read list pair: 5 7 7 1 4    8 7 5 3 0
+Sorted list pair: 1 4 5 7 7    0 3 5 7 8
+Read: 65300   40271
+
+Read list pair: 6 5 3 0 0    4 0 2 7 1
+Sorted list pair: 0 0 3 5 6    0 1 2 4 7
+Read: 65053   19684
+
+Read list pair: 6 5 0 5 3    1 9 6 8 4
+Sorted list pair: 0 3 5 5 6    1 4 6 8 9
+Read: 97208   29064
+
+Read list pair: 9 7 2 0 8    2 9 0 6 4
+Sorted list pair: 0 2 7 8 9    0 2 4 6 9
+Read: 79814   15202
+
+Read list pair: 7 9 8 1 4    1 5 2 0 2
+Sorted list pair: 1 4 7 8 9    0 1 2 2 5
+Read: 25364   63442
+
+Read list pair: 2 5 3 6 4    6 3 4 4 2
+Sorted list pair: 2 3 4 5 6    2 3 4 4 6
+Read: 47637   39347
+
+Read list pair: 4 7 6 3 7    3 9 3 4 7
+Sorted list pair: 3 4 6 7 7    3 3 4 7 9
+Read: 96951   69884
+
+Read list pair: 9 6 9 5 1    6 9 8 8 4
+Sorted list pair: 1 5 6 9 9    4 6 8 8 9
+Read: 53474   62127
+
+Read list pair: 5 3 4 7 4    6 2 1 2 7
+Sorted list pair: 3 4 4 5 7    1 2 2 6 7
+Read: 46924   69884
+
+Read list pair: 4 6 9 2 4    6 9 8 8 4
+Sorted list pair: 2 4 4 6 9    4 6 8 8 9
+Read: 50969   52018
+
+Read list pair: 5 0 9 6 9    5 2 0 1 8
+Sorted list pair: 0 5 6 9 9    0 1 2 5 8
+Read: 37489   99007
+
+Read list pair: 3 7 4 8 9    9 9 0 0 7
+Sorted list pair: 3 4 7 8 9    0 0 7 9 9
+Read: 48578   62127
+
+Read list pair: 4 8 5 7 8    6 2 1 2 7
+Sorted list pair: 4 5 7 8 8    1 2 2 6 7
+Read: 61446   80919
+
+Read list pair: 6 1 4 4 6    8 0 9 1 9
+Sorted list pair: 1 4 4 6 6    0 1 8 9 9
+Read: 68586   34617
+
+Read list pair: 6 8 5 8 6    3 4 6 1 7
+Sorted list pair: 5 6 6 8 8    1 3 4 6 7
+Read: 49043   73532
+
+Read list pair: 4 9 0 4 3    7 3 5 3 2
+Sorted list pair: 0 3 4 4 9    2 3 3 5 7
+Read: 92466   82326
+
+Read list pair: 9 2 4 6 6    8 2 3 2 6
+Sorted list pair: 2 4 6 6 9    2 2 3 6 8
+Read: 24713   44999
+
+Read list pair: 2 4 7 1 3    4 4 9 9 9
+Sorted list pair: 1 2 3 4 7    4 4 9 9 9
+Read: 63343   55976
+
+Read list pair: 6 3 3 4 3    5 5 9 7 6
+Sorted list pair: 3 3 3 4 6    5 5 6 7 9
+Read: 35977   84179
+
+Read list pair: 3 5 9 7 7    8 4 1 7 9
+Sorted list pair: 3 5 7 7 9    1 4 7 8 9
+Read: 34245   33537
+
+Read list pair: 3 4 2 4 5    3 3 5 3 7
+Sorted list pair: 2 3 4 4 5    3 3 3 5 7
+Read: 51912   56714
+
+Read list pair: 5 1 9 1 2    5 6 7 1 4
+Sorted list pair: 1 1 2 5 9    1 4 5 6 7
+Read: 94801   52702
+
+Read list pair: 9 4 8 0 1    5 2 7 0 2
+Sorted list pair: 0 1 4 8 9    0 2 2 5 7
+Read: 43170   40215
+
+Read list pair: 4 3 1 7 0    4 0 2 1 5
+Sorted list pair: 0 1 3 4 7    0 1 2 4 5
+Read: 92867   77689
+
+Read list pair: 9 2 8 6 7    7 7 6 8 9
+Sorted list pair: 2 6 7 8 9    6 7 7 8 9
+Read: 70889   82782
+
+Read list pair: 7 0 8 8 9    8 2 7 8 2
+Sorted list pair: 0 7 8 8 9    2 2 7 8 8
+Read: 55715   32788
+
+Read list pair: 5 5 7 1 5    3 2 7 8 8
+Sorted list pair: 1 5 5 5 7    2 3 7 8 8
+Read: 58553   53227
+
+Read list pair: 5 8 5 5 3    5 3 2 2 7
+Sorted list pair: 3 5 5 5 8    2 2 3 5 7
+Read: 16471   23124
+
+Read list pair: 1 6 4 7 1    2 3 1 2 4
+Sorted list pair: 1 1 4 6 7    1 2 2 3 4
+Read: 87308   51281
+
+Read list pair: 8 7 3 0 8    5 1 2 8 1
+Sorted list pair: 0 3 7 8 8    1 1 2 5 8
+Read: 21869   75687
+
+Read list pair: 2 1 8 6 9    7 5 6 8 7
+Sorted list pair: 1 2 6 8 9    5 6 7 7 8
+Read: 42734   58536
+
+Read list pair: 4 2 7 3 4    5 8 5 3 6
+Sorted list pair: 2 3 4 4 7    3 5 5 6 8
+Read: 60655   15202
+
+Read list pair: 6 0 6 5 5    1 5 2 0 2
+Sorted list pair: 0 5 5 6 6    0 1 2 2 5
+Read: 85304   77668
+
+Read list pair: 8 5 3 0 4    7 7 6 6 8
+Sorted list pair: 0 3 4 5 8    6 6 7 7 8
+Read: 94528   10667
+
+Read list pair: 9 4 5 2 8    1 0 6 6 7
+Sorted list pair: 2 4 5 8 9    0 1 6 6 7
+Read: 52573   29966
+
+Read list pair: 5 2 5 7 3    2 9 9 6 6
+Sorted list pair: 2 3 5 5 7    2 6 6 9 9
+Read: 67022   91096
+
+Read list pair: 6 7 0 2 2    9 1 0 9 6
+Sorted list pair: 0 2 2 6 7    0 1 6 9 9
+Read: 56714   98154
+
+Read list pair: 5 6 7 1 4    9 8 1 5 4
+Sorted list pair: 1 4 5 6 7    1 4 5 8 9
+Read: 24181   10943
+
+Read list pair: 2 4 1 8 1    1 0 9 4 3
+Sorted list pair: 1 1 2 4 8    0 1 3 4 9
+Read: 72888   40347
+
+Read list pair: 7 2 8 8 8    4 0 3 4 7
+Sorted list pair: 2 7 8 8 8    0 3 4 4 7
+Read: 72526   73838
+
+Read list pair: 7 2 5 2 6    7 3 8 3 8
+Sorted list pair: 2 2 5 6 7    3 3 7 8 8
+Read: 35075   99760
+
+Read list pair: 3 5 0 7 5    9 9 7 6 0
+Sorted list pair: 0 3 5 5 7    0 6 7 9 9
+Read: 18297   77200
+
+Read list pair: 1 8 2 9 7    7 7 2 0 0
+Sorted list pair: 1 2 7 8 9    0 0 2 7 7
+Read: 33264   94679
+
+Read list pair: 3 3 2 6 4    9 4 6 7 9
+Sorted list pair: 2 3 3 4 6    4 6 7 9 9
+Read: 79398   56714
+
+Read list pair: 7 9 3 9 8    5 6 7 1 4
+Sorted list pair: 3 7 8 9 9    1 4 5 6 7
+Read: 96423   61699
+
+Read list pair: 9 6 4 2 3    6 1 6 9 9
+Sorted list pair: 2 3 4 6 9    1 6 6 9 9
+Read: 98761   99007
+
+Read list pair: 9 8 7 6 1    9 9 0 0 7
+Sorted list pair: 1 6 7 8 9    0 0 7 9 9
+Read: 47893   52463
+
+Read list pair: 4 7 8 9 3    5 2 4 6 3
+Sorted list pair: 3 4 7 8 9    2 3 4 5 6
+Read: 23998   29333
+
+Read list pair: 2 3 9 9 8    2 9 3 3 3
+Sorted list pair: 2 3 8 9 9    2 3 3 3 9
+Read: 73783   80539
+
+Read list pair: 7 3 7 8 3    8 0 5 3 9
+Sorted list pair: 3 3 7 7 8    0 3 5 8 9
+Read: 95656   85562
+
+Read list pair: 9 5 6 5 6    8 5 5 6 2
+Sorted list pair: 5 5 6 6 9    2 5 5 6 8
+Read: 39010   70144
+
+Read list pair: 3 9 0 1 0    7 0 1 4 4
+Sorted list pair: 0 0 1 3 9    0 1 4 4 7
+Read: 12750   50086
+
+Read list pair: 1 2 7 5 0    5 0 0 8 6
+Sorted list pair: 0 1 2 5 7    0 0 5 6 8
+Read: 37688   37813
+
+Read list pair: 3 7 6 8 8    3 7 8 1 3
+Sorted list pair: 3 6 7 8 8    1 3 3 7 8
+Read: 34615   99090
+
+Read list pair: 3 4 6 1 5    9 9 0 9 0
+Sorted list pair: 1 3 4 5 6    0 0 9 9 9
+Read: 89976   36475
+
+Read list pair: 8 9 9 7 6    3 6 4 7 5
+Sorted list pair: 6 7 8 9 9    3 4 5 6 7
+Read: 57208   81294
+
+Read list pair: 5 7 2 0 8    8 1 2 9 4
+Sorted list pair: 0 2 5 7 8    1 2 4 8 9
+Read: 77332   63554
+
+Read list pair: 7 7 3 3 2    6 3 5 5 4
+Sorted list pair: 2 3 3 7 7    3 4 5 5 6
+Read: 84748   77108
+
+Read list pair: 8 4 7 4 8    7 7 1 0 8
+Sorted list pair: 4 4 7 8 8    0 1 7 7 8
+Read: 91236   37247
+
+Read list pair: 9 1 2 3 6    3 7 2 4 7
+Sorted list pair: 1 2 3 6 9    2 3 4 7 7
+Read: 95049   38795
+
+Read list pair: 9 5 0 4 9    3 8 7 9 5
+Sorted list pair: 0 4 5 9 9    3 5 7 8 9
+Read: 37167   87150
+
+Read list pair: 3 7 1 6 7    8 7 1 5 0
+Sorted list pair: 1 3 6 7 7    0 1 5 7 8
+Read: 75938   81744
+
+Read list pair: 7 5 9 3 8    8 1 7 4 4
+Sorted list pair: 3 5 7 8 9    1 4 4 7 8
+Read: 13240   60220
+
+Read list pair: 1 3 2 4 0    6 0 2 2 0
+Sorted list pair: 0 1 2 3 4    0 0 2 2 6
+Read: 98249   81665
+
+Read list pair: 9 8 2 4 9    8 1 6 6 5
+Sorted list pair: 2 4 8 9 9    1 5 6 6 8
+Read: 57711   82510
+
+Read list pair: 5 7 7 1 1    8 2 5 1 0
+Sorted list pair: 1 1 5 7 7    0 1 2 5 8
+Read: 48345   50410
+
+Read list pair: 4 8 3 4 5    5 0 4 1 0
+Sorted list pair: 3 4 4 5 8    0 0 1 4 5
+Read: 34247   55076
+
+Read list pair: 3 4 2 4 7    5 5 0 7 6
+Sorted list pair: 2 3 4 4 7    0 5 5 6 7
+Read: 63735   56714
+
+Read list pair: 6 3 7 3 5    5 6 7 1 4
+Sorted list pair: 3 3 5 6 7    1 4 5 6 7
+Read: 49753   72955
+
+Read list pair: 4 9 7 5 3    7 2 9 5 5
+Sorted list pair: 3 4 5 7 9    2 5 5 7 9
+Read: 42491   57804
+
+Read list pair: 4 2 4 9 1    5 7 8 0 4
+Sorted list pair: 1 2 4 4 9    0 4 5 7 8
+Read: 95228   62498
+
+Read list pair: 9 5 2 2 8    6 2 4 9 8
+Sorted list pair: 2 2 5 8 9    2 4 6 8 9
+Read: 49153   69884
+
+Read list pair: 4 9 1 5 3    6 9 8 8 4
+Sorted list pair: 1 3 4 5 9    4 6 8 8 9
+Read: 48475   81665
+
+Read list pair: 4 8 4 7 5    8 1 6 6 5
+Sorted list pair: 4 4 5 7 8    1 5 6 6 8
+Read: 51080   16072
+
+Read list pair: 5 1 0 8 0    1 6 0 7 2
+Sorted list pair: 0 0 1 5 8    0 1 2 6 7
+Read: 99335   26876
+
+Read list pair: 9 9 3 3 5    2 6 8 7 6
+Sorted list pair: 3 3 5 9 9    2 6 6 7 8
+Read: 76428   71861
+
+Read list pair: 7 6 4 2 8    7 1 8 6 1
+Sorted list pair: 2 4 6 7 8    1 1 6 7 8
+Read: 87840   87762
+
+Read list pair: 8 7 8 4 0    8 7 7 6 2
+Sorted list pair: 0 4 7 8 8    2 6 7 7 8
+Read: 90879   63708
+
+Read list pair: 9 0 8 7 9    6 3 7 0 8
+Sorted list pair: 0 7 8 9 9    0 3 6 7 8
+Read: 78241   94882
+
+Read list pair: 7 8 2 4 1    9 4 8 8 2
+Sorted list pair: 1 2 4 7 8    2 4 8 8 9
+Read: 44228   70144
+
+Read list pair: 4 4 2 2 8    7 0 1 4 4
+Sorted list pair: 2 2 4 4 8    0 1 4 4 7
+Read: 14939   81681
+
+Read list pair: 1 4 9 3 9    8 1 6 8 1
+Sorted list pair: 1 3 4 9 9    1 1 6 8 8
+Read: 91560   72595
+
+Read list pair: 9 1 5 6 0    7 2 5 9 5
+Sorted list pair: 0 1 5 6 9    2 5 5 7 9
+Read: 60633   61699
+
+Read list pair: 6 0 6 3 3    6 1 6 9 9
+Sorted list pair: 0 3 3 6 6    1 6 6 9 9
+Read: 87704   14607
+
+Read list pair: 8 7 7 0 4    1 4 6 0 7
+Sorted list pair: 0 4 7 7 8    0 1 4 6 7
+Read: 93639   44999
+
+Read list pair: 9 3 6 3 9    4 4 9 9 9
+Sorted list pair: 3 3 6 9 9    4 4 9 9 9
+Read: 56105   29596
+
+Read list pair: 5 6 1 0 5    2 9 5 9 6
+Sorted list pair: 0 1 5 5 6    2 5 6 9 9
+Read: 32508   73607
+
+Read list pair: 3 2 5 0 8    7 3 6 0 7
+Sorted list pair: 0 2 3 5 8    0 3 6 7 7
+Read: 12567   33468
+
+Read list pair: 1 2 5 6 7    3 3 4 6 8
+Sorted list pair: 1 2 5 6 7    3 3 4 6 8
+Read: 97216   21595
+
+Read list pair: 9 7 2 1 6    2 1 5 9 5
+Sorted list pair: 1 2 6 7 9    1 2 5 5 9
+Read: 50798   92962
+
+Read list pair: 5 0 7 9 8    9 2 9 6 2
+Sorted list pair: 0 5 7 8 9    2 2 6 9 9
+Read: 22716   94002
+
+Read list pair: 2 2 7 1 6    9 4 0 0 2
+Sorted list pair: 1 2 2 6 7    0 0 2 4 9
+Read: 14778   56597
+
+Read list pair: 1 4 7 7 8    5 6 5 9 7
+Sorted list pair: 1 4 7 7 8    5 5 6 7 9
+Read: 85689   26890
+
+Read list pair: 8 5 6 8 9    2 6 8 9 0
+Sorted list pair: 5 6 8 8 9    0 2 6 8 9
+Read: 44077   99719
+
+Read list pair: 4 4 0 7 7    9 9 7 1 9
+Sorted list pair: 0 4 4 7 7    1 7 9 9 9
+Read: 19295   43088
+
+Read list pair: 1 9 2 9 5    4 3 0 8 8
+Sorted list pair: 1 2 5 9 9    0 3 4 8 8
+Read: 95073   89224
+
+Read list pair: 9 5 0 7 3    8 9 2 2 4
+Sorted list pair: 0 3 5 7 9    2 2 4 8 9
+Read: 66049   74142
+
+Read list pair: 6 6 0 4 9    7 4 1 4 2
+Sorted list pair: 0 4 6 6 9    1 2 4 4 7
+Read: 13636   55544
+
+Read list pair: 1 3 6 3 6    5 5 5 4 4
+Sorted list pair: 1 3 3 6 6    4 4 5 5 5
+Read: 14788   46689
+
+Read list pair: 1 4 7 8 8    4 6 6 8 9
+Sorted list pair: 1 4 7 8 8    4 6 6 8 9
+Read: 50539   94586
+
+Read list pair: 5 0 5 3 9    9 4 5 8 6
+Sorted list pair: 0 3 5 5 9    4 5 6 8 9
+Read: 76711   12338
+
+Read list pair: 7 6 7 1 1    1 2 3 3 8
+Sorted list pair: 1 1 6 7 7    1 2 3 3 8
+Read: 68845   99007
+
+Read list pair: 6 8 8 4 5    9 9 0 0 7
+Sorted list pair: 4 5 6 8 8    0 0 7 9 9
+Read: 58084   56714
+
+Read list pair: 5 8 0 8 4    5 6 7 1 4
+Sorted list pair: 0 4 5 8 8    1 4 5 6 7
+Read: 81373   44999
+
+Read list pair: 8 1 3 7 3    4 4 9 9 9
+Sorted list pair: 1 3 3 7 8    4 4 9 9 9
+Read: 85290   52702
+
+Read list pair: 8 5 2 9 0    5 2 7 0 2
+Sorted list pair: 0 2 5 8 9    0 2 2 5 7
+Read: 74215   81665
+
+Read list pair: 7 4 2 1 5    8 1 6 6 5
+Sorted list pair: 1 2 4 5 7    1 5 6 6 8
+Read: 83877   42928
+
+Read list pair: 8 3 8 7 7    4 2 9 2 8
+Sorted list pair: 3 7 7 8 8    2 2 4 8 9
+Read: 72744   24041
+
+Read list pair: 7 2 7 4 4    2 4 0 4 1
+Sorted list pair: 2 4 4 7 7    0 1 2 4 4
+Read: 42339   44999
+
+Read list pair: 4 2 3 3 9    4 4 9 9 9
+Sorted list pair: 2 3 3 4 9    4 4 9 9 9
+Read: 90903   77689
+
+Read list pair: 9 0 9 0 3    7 7 6 8 9
+Sorted list pair: 0 0 3 9 9    6 7 7 8 9
+Read: 95473   77689
+
+Read list pair: 9 5 4 7 3    7 7 6 8 9
+Sorted list pair: 3 4 5 7 9    6 7 7 8 9
+Read: 15968   81665
+
+Read list pair: 1 5 9 6 8    8 1 6 6 5
+Sorted list pair: 1 5 6 8 9    1 5 6 6 8
+Read: 30119   70771
+
+Read list pair: 3 0 1 1 9    7 0 7 7 1
+Sorted list pair: 0 1 1 3 9    0 1 7 7 7
+Read: 67126   62242
+
+Read list pair: 6 7 1 2 6    6 2 2 4 2
+Sorted list pair: 1 2 6 6 7    2 2 2 4 6
+Read: 28005   43891
+
+Read list pair: 2 8 0 0 5    4 3 8 9 1
+Sorted list pair: 0 0 2 5 8    1 3 4 8 9
+Read: 83542   56246
+
+Read list pair: 8 3 5 4 2    5 6 2 4 6
+Sorted list pair: 2 3 4 5 8    2 4 5 6 6
+Read: 55690   61699
+
+Read list pair: 5 5 6 9 0    6 1 6 9 9
+Sorted list pair: 0 5 5 6 9    1 6 6 9 9
+Read: 86747   52702
+
+Read list pair: 8 6 7 4 7    5 2 7 0 2
+Sorted list pair: 4 6 7 7 8    0 2 2 5 7
+Read: 95312   76423
+
+Read list pair: 9 5 3 1 2    7 6 4 2 3
+Sorted list pair: 1 2 3 5 9    2 3 4 6 7
+Read: 71809   30853
+
+Read list pair: 7 1 8 0 9    3 0 8 5 3
+Sorted list pair: 0 1 7 8 9    0 3 3 5 8
+Read: 95342   86814
+
+Read list pair: 9 5 3 4 2    8 6 8 1 4
+Sorted list pair: 2 3 4 5 9    1 4 6 8 8
+Read: 35018   44999
+
+Read list pair: 3 5 0 1 8    4 4 9 9 9
+Sorted list pair: 0 1 3 5 8    4 4 9 9 9
+Read: 66726   88424
+
+Read list pair: 6 6 7 2 6    8 8 4 2 4
+Sorted list pair: 2 6 6 6 7    2 4 4 8 8
+Read: 88452   46221
+
+Read list pair: 8 8 4 5 2    4 6 2 2 1
+Sorted list pair: 2 4 5 8 8    1 2 2 4 6
+Read: 27429   40593
+
+Read list pair: 2 7 4 2 9    4 0 5 9 3
+Sorted list pair: 2 2 4 7 9    0 3 4 5 9
+Read: 55822   74366
+
+Read list pair: 5 5 8 2 2    7 4 3 6 6
+Sorted list pair: 2 2 5 5 8    3 4 6 6 7
+Read: 55664   17591
+
+Read list pair: 5 5 6 6 4    1 7 5 9 1
+Sorted list pair: 4 5 5 6 6    1 1 5 7 9
+Read: 52298   56714
+
+Read list pair: 5 2 2 9 8    5 6 7 1 4
+Sorted list pair: 2 2 5 8 9    1 4 5 6 7
+Read: 46184   12887
+
+Read list pair: 4 6 1 8 4    1 2 8 8 7
+Sorted list pair: 1 4 4 6 8    1 2 7 8 8
+Read: 83709   73532
+
+Read list pair: 8 3 7 0 9    7 3 5 3 2
+Sorted list pair: 0 3 7 8 9    2 3 3 5 7
+Read: 96569   52521
+
+Read list pair: 9 6 5 6 9    5 2 5 2 1
+Sorted list pair: 5 6 6 9 9    1 2 2 5 5
+Read: 94130   77689
+
+Read list pair: 9 4 1 3 0    7 7 6 8 9
+Sorted list pair: 0 1 3 4 9    6 7 7 8 9
+Read: 14616   90178
+
+Read list pair: 1 4 6 1 6    9 0 1 7 8
+Sorted list pair: 1 1 4 6 6    0 1 7 8 9
+Read: 54685   61908
+
+Read list pair: 5 4 6 8 5    6 1 9 0 8
+Sorted list pair: 4 5 5 6 8    0 1 6 8 9
+Read: 46980   56034
+
+Read list pair: 4 6 9 8 0    5 6 0 3 4
+Sorted list pair: 0 4 6 8 9    0 3 4 5 6
+Read: 97505   63846
+
+Read list pair: 9 7 5 0 5    6 3 8 4 6
+Sorted list pair: 0 5 5 7 9    3 4 6 6 8
+Read: 65102   40271
+
+Read list pair: 6 5 1 0 2    4 0 2 7 1
+Sorted list pair: 0 1 2 5 6    0 1 2 4 7
+Read: 27333   54978
+
+Read list pair: 2 7 3 3 3    5 4 9 7 8
+Sorted list pair: 2 3 3 3 7    4 5 7 8 9
+Read: 50829   12173
+
+Read list pair: 5 0 8 2 9    1 2 1 7 3
+Sorted list pair: 0 2 5 8 9    1 1 2 3 7
+Read: 22972   75288
+
+Read list pair: 2 2 9 7 2    7 5 2 8 8
+Sorted list pair: 2 2 2 7 9    2 5 7 8 8
+Read: 82623   52859
+
+Read list pair: 8 2 6 2 3    5 2 8 5 9
+Sorted list pair: 2 2 3 6 8    2 5 5 8 9
+Read: 38551   43499
+
+Read list pair: 3 8 5 5 1    4 3 4 9 9
+Sorted list pair: 1 3 5 5 8    3 4 4 9 9
+Read: 93146   26876
+
+Read list pair: 9 3 1 4 6    2 6 8 7 6
+Sorted list pair: 1 3 4 6 9    2 6 6 7 8
+Read: 75782   44999
+
+Read list pair: 7 5 7 8 2    4 4 9 9 9
+Sorted list pair: 2 5 7 7 8    4 4 9 9 9
+Read: 58483   90566
+
+Read list pair: 5 8 4 8 3    9 0 5 6 6
+Sorted list pair: 3 4 5 8 8    0 5 6 6 9
+Read: 25714   14324
+
+Read list pair: 2 5 7 1 4    1 4 3 2 4
+Sorted list pair: 1 2 4 5 7    1 2 3 4 4
+Read: 93683   12547
+
+Read list pair: 9 3 6 8 3    1 2 5 4 7
+Sorted list pair: 3 3 6 8 9    1 2 4 5 7
+Read: 13255   41011
+
+Read list pair: 1 3 2 5 5    4 1 0 1 1
+Sorted list pair: 1 2 3 5 5    0 1 1 1 4
+Read: 17050   77689
+
+Read list pair: 1 7 0 5 0    7 7 6 8 9
+Sorted list pair: 0 0 1 5 7    6 7 7 8 9
+Read: 99987   69884
+
+Read list pair: 9 9 9 8 7    6 9 8 8 4
+Sorted list pair: 7 8 9 9 9    4 6 8 8 9
+Read: 87610   98164
+
+Read list pair: 8 7 6 1 0    9 8 1 6 4
+Sorted list pair: 0 1 6 7 8    1 4 6 8 9
+Read: 32788   79689
+
+Read list pair: 3 2 7 8 8    7 9 6 8 9
+Sorted list pair: 2 3 7 8 8    6 7 8 9 9
+Read: 88659   72069
+
+Read list pair: 8 8 6 5 9    7 2 0 6 9
+Sorted list pair: 5 6 8 8 9    0 2 6 7 9
+Read: 75294   77367
+
+Read list pair: 7 5 2 9 4    7 7 3 6 7
+Sorted list pair: 2 4 5 7 9    3 6 7 7 7
+Read: 83641   61674
+
+Read list pair: 8 3 6 4 1    6 1 6 7 4
+Sorted list pair: 1 3 4 6 8    1 4 6 6 7
+Read: 78128   15202
+
+Read list pair: 7 8 1 2 8    1 5 2 0 2
+Sorted list pair: 1 2 7 8 8    0 1 2 2 5
+Read: 77913   58536
+
+Read list pair: 7 7 9 1 3    5 8 5 3 6
+Sorted list pair: 1 3 7 7 9    3 5 5 6 8
+Read: 18091   56438
+
+Read list pair: 1 8 0 9 1    5 6 4 3 8
+Sorted list pair: 0 1 1 8 9    3 4 5 6 8
+Read: 44772   38894
+
+Read list pair: 4 4 7 7 2    3 8 8 9 4
+Sorted list pair: 2 4 4 7 7    3 4 8 8 9
+Read: 18123   63907
+
+Read list pair: 1 8 1 2 3    6 3 9 0 7
+Sorted list pair: 1 1 2 3 8    0 3 6 7 9
+Read: 14757   22903
+
+Read list pair: 1 4 7 5 7    2 2 9 0 3
+Sorted list pair: 1 4 5 7 7    0 2 2 3 9
+Read: 86063   10369
+
+Read list pair: 8 6 0 6 3    1 0 3 6 9
+Sorted list pair: 0 3 6 6 8    0 1 3 6 9
+Read: 58790   13571
+
+Read list pair: 5 8 7 9 0    1 3 5 7 1
+Sorted list pair: 0 5 7 8 9    1 1 3 5 7
+Read: 96646   73532
+
+Read list pair: 9 6 6 4 6    7 3 5 3 2
+Sorted list pair: 4 6 6 6 9    2 3 3 5 7
+Read: 17441   37016
+
+Read list pair: 1 7 4 4 1    3 7 0 1 6
+Sorted list pair: 1 1 4 4 7    0 1 3 6 7
+Read: 62735   79008
+
+Read list pair: 6 2 7 3 5    7 9 0 0 8
+Sorted list pair: 2 3 5 6 7    0 0 7 8 9
+Read: 19676   58536
+
+Read list pair: 1 9 6 7 6    5 8 5 3 6
+Sorted list pair: 1 6 6 7 9    3 5 5 6 8
+Read: 53952   21281
+
+Read list pair: 5 3 9 5 2    2 1 2 8 1
+Sorted list pair: 2 3 5 5 9    1 1 2 2 8
+Read: 96037   78166
+
+Read list pair: 9 6 0 3 7    7 8 1 6 6
+Sorted list pair: 0 3 6 7 9    1 6 6 7 8
+Read: 56324   41924
+
+Read list pair: 5 6 3 2 4    4 1 9 2 4
+Sorted list pair: 2 3 4 5 6    1 2 4 4 9
+Read: 91420   92847
+
+Read list pair: 9 1 4 2 0    9 2 8 4 7
+Sorted list pair: 0 1 2 4 9    2 4 7 8 9
+Read: 32075   80539
+
+Read list pair: 3 2 0 7 5    8 0 5 3 9
+Sorted list pair: 0 2 3 5 7    0 3 5 8 9
+Read: 88097   93787
+
+Read list pair: 8 8 0 9 7    9 3 7 8 7
+Sorted list pair: 0 7 8 8 9    3 7 7 8 9
+Read: 64557   77689
+
+Read list pair: 6 4 5 5 7    7 7 6 8 9
+Sorted list pair: 4 5 5 6 7    6 7 7 8 9
+Read: 86964   87922
+
+Read list pair: 8 6 9 6 4    8 7 9 2 2
+Sorted list pair: 4 6 6 8 9    2 2 7 8 9
+Read: 54705   63907
+
+Read list pair: 5 4 7 0 5    6 3 9 0 7
+Sorted list pair: 0 4 5 5 7    0 3 6 7 9
+Read: 39832   87431
+
+Read list pair: 3 9 8 3 2    8 7 4 3 1
+Sorted list pair: 2 3 3 8 9    1 3 4 7 8
+Read: 26744   29333
+
+Read list pair: 2 6 7 4 4    2 9 3 3 3
+Sorted list pair: 2 4 4 6 7    2 3 3 3 9
+Read: 94719   35503
+
+Read list pair: 9 4 7 1 9    3 5 5 0 3
+Sorted list pair: 1 4 7 9 9    0 3 3 5 5
+Read: 15467   75955
+
+Read list pair: 1 5 4 6 7    7 5 9 5 5
+Sorted list pair: 1 4 5 6 7    5 5 5 7 9
+Read: 41780   56714
+
+Read list pair: 4 1 7 8 0    5 6 7 1 4
+Sorted list pair: 0 1 4 7 8    1 4 5 6 7
+Read: 68740   33686
+
+Read list pair: 6 8 7 4 0    3 3 6 8 6
+Sorted list pair: 0 4 6 7 8    3 3 6 6 8
+Read: 78413   28597
+
+Read list pair: 7 8 4 1 3    2 8 5 9 7
+Sorted list pair: 1 3 4 7 8    2 5 7 8 9
+Read: 22458   82789
+
+Read list pair: 2 2 4 5 8    8 2 7 8 9
+Sorted list pair: 2 2 4 5 8    2 7 8 8 9
+Read: 32380   70070
+
+Read list pair: 3 2 3 8 0    7 0 0 7 0
+Sorted list pair: 0 2 3 3 8    0 0 0 7 7
+Read: 58856   66092
+
+Read list pair: 5 8 8 5 6    6 6 0 9 2
+Sorted list pair: 5 5 6 8 8    0 2 6 6 9
+Read: 31400   68116
+
+Read list pair: 3 1 4 0 0    6 8 1 1 6
+Sorted list pair: 0 0 1 3 4    1 1 6 6 8
+Read: 29596   92821
+
+Read list pair: 2 9 5 9 6    9 2 8 2 1
+Sorted list pair: 2 5 6 9 9    1 2 2 8 9
+Read: 74434   36862
+
+Read list pair: 7 4 4 3 4    3 6 8 6 2
+Sorted list pair: 3 4 4 4 7    2 3 6 6 8
+Read: 56903   60867
+
+Read list pair: 5 6 9 0 3    6 0 8 6 7
+Sorted list pair: 0 3 5 6 9    0 6 6 7 8
+Read: 68537   62762
+
+Read list pair: 6 8 5 3 7    6 2 7 6 2
+Sorted list pair: 3 5 6 7 8    2 2 6 6 7
+Read: 73882   52702
+
+Read list pair: 7 3 8 8 2    5 2 7 0 2
+Sorted list pair: 2 3 7 8 8    0 2 2 5 7
+Read: 50795   41011
+
+Read list pair: 5 0 7 9 5    4 1 0 1 1
+Sorted list pair: 0 5 5 7 9    0 1 1 1 4
+Read: 92978   80539
+
+Read list pair: 9 2 9 7 8    8 0 5 3 9
+Sorted list pair: 2 7 8 9 9    0 3 5 8 9
+Read: 15419   63907
+
+Read list pair: 1 5 4 1 9    6 3 9 0 7
+Sorted list pair: 1 1 4 5 9    0 3 6 7 9
+Read: 30824   73027
+
+Read list pair: 3 0 8 2 4    7 3 0 2 7
+Sorted list pair: 0 2 3 4 8    0 2 3 7 7
+Read: 87167   66219
+
+Read list pair: 8 7 1 6 7    6 6 2 1 9
+Sorted list pair: 1 6 7 7 8    1 2 6 6 9
+Read: 30311   23071
+
+Read list pair: 3 0 3 1 1    2 3 0 7 1
+Sorted list pair: 0 1 1 3 3    0 1 2 3 7
+Read: 69915   65438
+
+Read list pair: 6 9 9 1 5    6 5 4 3 8
+Sorted list pair: 1 5 6 9 9    3 4 5 6 8
+Read: 13875   10846
+
+Read list pair: 1 3 8 7 5    1 0 8 4 6
+Sorted list pair: 1 3 5 7 8    0 1 4 6 8
+Read: 25150   58100
+
+Read list pair: 2 5 1 5 0    5 8 1 0 0
+Sorted list pair: 0 1 2 5 5    0 0 1 5 8
+Read: 71794   69045
+
+Read list pair: 7 1 7 9 4    6 9 0 4 5
+Sorted list pair: 1 4 7 7 9    0 4 5 6 9
+Read: 67187   22217
+
+Read list pair: 6 7 1 8 7    2 2 2 1 7
+Sorted list pair: 1 6 7 7 8    1 2 2 2 7
+Read: 88571   99345
+
+Read list pair: 8 8 5 7 1    9 9 3 4 5
+Sorted list pair: 1 5 7 8 8    3 4 5 9 9
+Read: 52691   99760
+
+Read list pair: 5 2 6 9 1    9 9 7 6 0
+Sorted list pair: 1 2 5 6 9    0 6 7 9 9
+Read: 58484   65806
+
+Read list pair: 5 8 4 8 4    6 5 8 0 6
+Sorted list pair: 4 4 5 8 8    0 5 6 6 8
+Read: 55576   15217
+
+Read list pair: 5 5 5 7 6    1 5 2 1 7
+Sorted list pair: 5 5 5 6 7    1 1 2 5 7
+Read: 70871   58536
+
+Read list pair: 7 0 8 7 1    5 8 5 3 6
+Sorted list pair: 0 1 7 7 8    3 5 5 6 8
+Read: 83674   61363
+
+Read list pair: 8 3 6 7 4    6 1 3 6 3
+Sorted list pair: 3 4 6 7 8    1 3 3 6 6
+Read: 21595   43759
+
+Read list pair: 2 1 5 9 5    4 3 7 5 9
+Sorted list pair: 1 2 5 5 9    3 4 5 7 9
+Read: 62939   84792
+
+Read list pair: 6 2 9 3 9    8 4 7 9 2
+Sorted list pair: 2 3 6 9 9    2 4 7 8 9
+Read: 19915   21720
+
+Read list pair: 1 9 9 1 5    2 1 7 2 0
+Sorted list pair: 1 1 5 9 9    0 1 2 2 7
+Read: 87126   59116
+
+Read list pair: 8 7 1 2 6    5 9 1 1 6
+Sorted list pair: 1 2 6 7 8    1 1 5 6 9
+Read: 37323   97948
+
+Read list pair: 3 7 3 2 3    9 7 9 4 8
+Sorted list pair: 2 3 3 3 7    4 7 8 9 9
+Read: 16743   81665
+
+Read list pair: 1 6 7 4 3    8 1 6 6 5
+Sorted list pair: 1 3 4 6 7    1 5 6 6 8
+Read: 76646   30581
+
+Read list pair: 7 6 6 4 6    3 0 5 8 1
+Sorted list pair: 4 6 6 6 7    0 1 3 5 8
+Read: 32715   62127
+
+Read list pair: 3 2 7 1 5    6 2 1 2 7
+Sorted list pair: 1 2 3 5 7    1 2 2 6 7
+Read: 27800   67124
+
+Read list pair: 2 7 8 0 0    6 7 1 2 4
+Sorted list pair: 0 0 2 7 8    1 2 4 6 7
+Read: 50506   13412
+
+Read list pair: 5 0 5 0 6    1 3 4 1 2
+Sorted list pair: 0 0 5 5 6    1 1 2 3 4
+Read: 41711   41011
+
+Read list pair: 4 1 7 1 1    4 1 0 1 1
+Sorted list pair: 1 1 1 4 7    0 1 1 1 4
+Read: 69510   49308
+
+Read list pair: 6 9 5 1 0    4 9 3 0 8
+Sorted list pair: 0 1 5 6 9    0 3 4 8 9
+Read: 64796   44463
+
+Read list pair: 6 4 7 9 6    4 4 4 6 3
+Sorted list pair: 4 6 6 7 9    3 4 4 4 6
+Read: 72579   12149
+
+Read list pair: 7 2 5 7 9    1 2 1 4 9
+Sorted list pair: 2 5 7 7 9    1 1 2 4 9
+Read: 69190   16493
+
+Read list pair: 6 9 1 9 0    1 6 4 9 3
+Sorted list pair: 0 1 6 9 9    1 3 4 6 9
+Read: 54418   23411
+
+Read list pair: 5 4 4 1 8    2 3 4 1 1
+Sorted list pair: 1 4 4 5 8    1 1 2 3 4
+Read: 22487   58536
+
+Read list pair: 2 2 4 8 7    5 8 5 3 6
+Sorted list pair: 2 2 4 7 8    3 5 5 6 8
+Read: 99378   63907
+
+Read list pair: 9 9 3 7 8    6 3 9 0 7
+Sorted list pair: 3 7 8 9 9    0 3 6 7 9
+Read: 12668   69884
+
+Read list pair: 1 2 6 6 8    6 9 8 8 4
+Sorted list pair: 1 2 6 6 8    4 6 8 8 9
+Read: 83089   54374
+
+Read list pair: 8 3 0 8 9    5 4 3 7 4
+Sorted list pair: 0 3 8 8 9    3 4 4 5 7
+Read: 49382   69884
+
+Read list pair: 4 9 3 8 2    6 9 8 8 4
+Sorted list pair: 2 3 4 8 9    4 6 8 8 9
+Read: 97939   18992
+
+Read list pair: 9 7 9 3 9    1 8 9 9 2
+Sorted list pair: 3 7 9 9 9    1 2 8 9 9
+Read: 55613   49971
+
+Read list pair: 5 5 6 1 3    4 9 9 7 1
+Sorted list pair: 1 3 5 5 6    1 4 7 9 9
+Read: 30391   71962
+
+Read list pair: 3 0 3 9 1    7 1 9 6 2
+Sorted list pair: 0 1 3 3 9    1 2 6 7 9
+Read: 99867   86926
+
+Read list pair: 9 9 8 6 7    8 6 9 2 6
+Sorted list pair: 6 7 8 9 9    2 6 6 8 9
+Read: 22464   58536
+
+Read list pair: 2 2 4 6 4    5 8 5 3 6
+Sorted list pair: 2 2 4 4 6    3 5 5 6 8
+Read: 62800   69400
+
+Read list pair: 6 2 8 0 0    6 9 4 0 0
+Sorted list pair: 0 0 2 6 8    0 0 4 6 9
+Read: 60452   30181
+
+Read list pair: 6 0 4 5 2    3 0 1 8 1
+Sorted list pair: 0 2 4 5 6    0 1 1 3 8
+Read: 28236   41011
+
+Read list pair: 2 8 2 3 6    4 1 0 1 1
+Sorted list pair: 2 2 3 6 8    0 1 1 1 4
+Read: 19971   99007
+
+Read list pair: 1 9 9 7 1    9 9 0 0 7
+Sorted list pair: 1 1 7 9 9    0 0 7 9 9
+Read: 97670   69480
+
+Read list pair: 9 7 6 7 0    6 9 4 8 0
+Sorted list pair: 0 6 7 7 9    0 4 6 8 9
+Read: 14241   19344
+
+Read list pair: 1 4 2 4 1    1 9 3 4 4
+Sorted list pair: 1 1 2 4 4    1 3 4 4 9
+Read: 53561   61699
+
+Read list pair: 5 3 5 6 1    6 1 6 9 9
+Sorted list pair: 1 3 5 5 6    1 6 6 9 9
+Read: 62921   99007
+
+Read list pair: 6 2 9 2 1    9 9 0 0 7
+Sorted list pair: 1 2 2 6 9    0 0 7 9 9
+Read: 56358   35755
+
+Read list pair: 5 6 3 5 8    3 5 7 5 5
+Sorted list pair: 3 5 5 6 8    3 5 5 5 7
+Read: 62754   34787
+
+Read list pair: 6 2 7 5 4    3 4 7 8 7
+Sorted list pair: 2 4 5 6 7    3 4 7 7 8
+Read: 58536   99007
+
+Read list pair: 5 8 5 3 6    9 9 0 0 7
+Sorted list pair: 3 5 5 6 8    0 0 7 9 9
+Read: 30001   53814
+
+Read list pair: 3 0 0 0 1    5 3 8 1 4
+Sorted list pair: 0 0 0 1 3    1 3 4 5 8
+Read: 74539   12679
+
+Read list pair: 7 4 5 3 9    1 2 6 7 9
+Sorted list pair: 3 4 5 7 9    1 2 6 7 9
+Read: 64108   42344
+
+Read list pair: 6 4 1 0 8    4 2 3 4 4
+Sorted list pair: 0 1 4 6 8    2 3 4 4 4
+Read: 10964   15202
+
+Read list pair: 1 0 9 6 4    1 5 2 0 2
+Sorted list pair: 0 1 4 6 9    0 1 2 2 5
+Read: 31620   12133
+
+Read list pair: 3 1 6 2 0    1 2 1 3 3
+Sorted list pair: 0 1 2 3 6    1 1 2 3 3
+Read: 63140   29642
+
+Read list pair: 6 3 1 4 0    2 9 6 4 2
+Sorted list pair: 0 1 3 4 6    2 2 4 6 9
+Read: 56181   75252
+
+Read list pair: 5 6 1 8 1    7 5 2 5 2
+Sorted list pair: 1 1 5 6 8    2 2 5 5 7
+Read: 24997   77689
+
+Read list pair: 2 4 9 9 7    7 7 6 8 9
+Sorted list pair: 2 4 7 9 9    6 7 7 8 9
+Read: 83375   30853
+
+Read list pair: 8 3 3 7 5    3 0 8 5 3
+Sorted list pair: 3 3 5 7 8    0 3 3 5 8
+Read: 58316   70611
+
+Read list pair: 5 8 3 1 6    7 0 6 1 1
+Sorted list pair: 1 3 5 6 8    0 1 1 6 7
+Read: 37598   86581
+
+Read list pair: 3 7 5 9 8    8 6 5 8 1
+Sorted list pair: 3 5 7 8 9    1 5 6 8 8
+Read: 53492   55238
+
+Read list pair: 5 3 4 9 2    5 5 2 3 8
+Sorted list pair: 2 3 4 5 9    2 3 5 5 8
+Read: 94882   53526
+
+Read list pair: 9 4 8 8 2    5 3 5 2 6
+Sorted list pair: 2 4 8 8 9    2 3 5 5 6
+Read: 49886   98524
+
+Read list pair: 4 9 8 8 6    9 8 5 2 4
+Sorted list pair: 4 6 8 8 9    2 4 5 8 9
+Read: 34832   40271
+
+Read list pair: 3 4 8 3 2    4 0 2 7 1
+Sorted list pair: 2 3 3 4 8    0 1 2 4 7
+Read: 51601   96816
+
+Read list pair: 5 1 6 0 1    9 6 8 1 6
+Sorted list pair: 0 1 1 5 6    1 6 6 8 9
+Read: 86836   76006
+
+Read list pair: 8 6 8 3 6    7 6 0 0 6
+Sorted list pair: 3 6 6 8 8    0 0 6 6 7
+Read: 98028   49086
+
+Read list pair: 9 8 0 2 8    4 9 0 8 6
+Sorted list pair: 0 2 8 8 9    0 4 6 8 9
+Read: 81264   92718
+
+Read list pair: 8 1 2 6 4    9 2 7 1 8
+Sorted list pair: 1 2 4 6 8    1 2 7 8 9
+Read: 88107   99760
+
+Read list pair: 8 8 1 0 7    9 9 7 6 0
+Sorted list pair: 0 1 7 8 8    0 6 7 9 9
+Read: 92986   22844
+
+Read list pair: 9 2 9 8 6    2 2 8 4 4
+Sorted list pair: 2 6 8 9 9    2 2 4 4 8
+Read: 15192   58536
+
+Read list pair: 1 5 1 9 2    5 8 5 3 6
+Sorted list pair: 1 1 2 5 9    3 5 5 6 8
+Read: 33858   31074
+
+Read list pair: 3 3 8 5 8    3 1 0 7 4
+Sorted list pair: 3 3 5 8 8    0 1 3 4 7
+Read: 47939   51733
+
+Read list pair: 4 7 9 3 9    5 1 7 3 3
+Sorted list pair: 3 4 7 9 9    1 3 3 5 7
+Read: 11400   64586
+
+Read list pair: 1 1 4 0 0    6 4 5 8 6
+Sorted list pair: 0 0 1 1 4    4 5 6 6 8
+Read: 41733   45362
+
+Read list pair: 4 1 7 3 3    4 5 3 6 2
+Sorted list pair: 1 3 3 4 7    2 3 4 5 6
+Read: 72781   74505
+
+Read list pair: 7 2 7 8 1    7 4 5 0 5
+Sorted list pair: 1 2 7 7 8    0 4 5 5 7
+Read: 99442   42256
+
+Read list pair: 9 9 4 4 2    4 2 2 5 6
+Sorted list pair: 2 4 4 9 9    2 2 4 5 6
+Read: 33819   73532
+
+Read list pair: 3 3 8 1 9    7 3 5 3 2
+Sorted list pair: 1 3 3 8 9    2 3 3 5 7
+Read: 42475   78227
+
+Read list pair: 4 2 4 7 5    7 8 2 2 7
+Sorted list pair: 2 4 4 5 7    2 2 7 7 8
+Read: 71861   63009
+
+Read list pair: 7 1 8 6 1    6 3 0 0 9
+Sorted list pair: 1 1 6 7 8    0 0 3 6 9
+Read: 16910   77689
+
+Read list pair: 1 6 9 1 0    7 7 6 8 9
+Sorted list pair: 0 1 1 6 9    6 7 7 8 9
+Read: 66841   55855
+
+Read list pair: 6 6 8 4 1    5 5 8 5 5
+Sorted list pair: 1 4 6 6 8    5 5 5 5 8
+Read: 82076   47569
+
+Read list pair: 8 2 0 7 6    4 7 5 6 9
+Sorted list pair: 0 2 6 7 8    4 5 6 7 9
+Read: 23970   77297
+
+Read list pair: 2 3 9 7 0    7 7 2 9 7
+Sorted list pair: 0 2 3 7 9    2 7 7 7 9
+Read: 50621   30972
+
+Read list pair: 5 0 6 2 1    3 0 9 7 2
+Sorted list pair: 0 1 2 5 6    0 2 3 7 9
+Read: 82188   65987
+
+Read list pair: 8 2 1 8 8    6 5 9 8 7
+Sorted list pair: 1 2 8 8 8    5 6 7 8 9
+Read: 52027   21595
+
+Read list pair: 5 2 0 2 7    2 1 5 9 5
+Sorted list pair: 0 2 2 5 7    1 2 5 5 9
+Read: 65978   41011
+
+Read list pair: 6 5 9 7 8    4 1 0 1 1
+Sorted list pair: 5 6 7 8 9    0 1 1 1 4
+Read: 76860   73419
+
+Read list pair: 7 6 8 6 0    7 3 4 1 9
+Sorted list pair: 0 6 6 7 8    1 3 4 7 9
+Read: 33128   23741
+
+Read list pair: 3 3 1 2 8    2 3 7 4 1
+Sorted list pair: 1 2 3 3 8    1 2 3 4 7
+Read: 56773   78528
+
+Read list pair: 5 6 7 7 3    7 8 5 2 8
+Sorted list pair: 3 5 6 7 7    2 5 7 8 8
+Read: 74030   40271
+
+Read list pair: 7 4 0 3 0    4 0 2 7 1
+Sorted list pair: 0 0 3 4 7    0 1 2 4 7
+Read: 83925   56714
+
+Read list pair: 8 3 9 2 5    5 6 7 1 4
+Sorted list pair: 2 3 5 8 9    1 4 5 6 7
+Read: 19663   10575
+
+Read list pair: 1 9 6 6 3    1 0 5 7 5
+Sorted list pair: 1 3 6 6 9    0 1 5 5 7
+Read: 45965   52702
+
+Read list pair: 4 5 9 6 5    5 2 7 0 2
+Sorted list pair: 4 5 5 6 9    0 2 2 5 7
+Read: 79913   99007
+
+Read list pair: 7 9 9 1 3    9 9 0 0 7
+Sorted list pair: 1 3 7 9 9    0 0 7 9 9
+Read: 24014   73532
+
+Read list pair: 2 4 0 1 4    7 3 5 3 2
+Sorted list pair: 0 1 2 4 4    2 3 3 5 7
+Read: 82291   30853
+
+Read list pair: 8 2 2 9 1    3 0 8 5 3
+Sorted list pair: 1 2 2 8 9    0 3 3 5 8
+Read: 55050   77689
+
+Read list pair: 5 5 0 5 0    7 7 6 8 9
+Sorted list pair: 0 0 5 5 5    6 7 7 8 9
+Read: 17469   77689
+
+Read list pair: 1 7 4 6 9    7 7 6 8 9
+Sorted list pair: 1 4 6 7 9    6 7 7 8 9
+Read: 89161   32788
+
+Read list pair: 8 9 1 6 1    3 2 7 8 8
+Sorted list pair: 1 1 6 8 9    2 3 7 8 8
+Read: 77583   72595
+
+Read list pair: 7 7 5 8 3    7 2 5 9 5
+Sorted list pair: 3 5 7 7 8    2 5 5 7 9
+Read: 63786   77015
+
+Read list pair: 6 3 7 8 6    7 7 0 1 5
+Sorted list pair: 3 6 6 7 8    0 1 5 7 7
+Read: 34030   25130
+
+Read list pair: 3 4 0 3 0    2 5 1 3 0
+Sorted list pair: 0 0 3 3 4    0 1 2 3 5
+Read: 31825   11803
+
+Read list pair: 3 1 8 2 5    1 1 8 0 3
+Sorted list pair: 1 2 3 5 8    0 1 1 3 8
+Read: 58100   29596
+
+Read list pair: 5 8 1 0 0    2 9 5 9 6
+Sorted list pair: 0 0 1 5 8    2 5 6 9 9
+Read: 31899   30853
+
+Read list pair: 3 1 8 9 9    3 0 8 5 3
+Sorted list pair: 1 3 8 9 9    0 3 3 5 8
+Read: 49755   72595
+
+Read list pair: 4 9 7 5 5    7 2 5 9 5
+Sorted list pair: 4 5 5 7 9    2 5 5 7 9
+Read: 27015   71793
+
+Read list pair: 2 7 0 1 5    7 1 7 9 3
+Sorted list pair: 0 1 2 5 7    1 3 7 7 9
+Read: 26065   14784
+
+Read list pair: 2 6 0 6 5    1 4 7 8 4
+Sorted list pair: 0 2 5 6 6    1 4 4 7 8
+Read: 56821   42394
+
+Read list pair: 5 6 8 2 1    4 2 3 9 4
+Sorted list pair: 1 2 5 6 8    2 3 4 4 9
+Read: 32804   26876
+
+Read list pair: 3 2 8 0 4    2 6 8 7 6
+Sorted list pair: 0 2 3 4 8    2 6 6 7 8
+Read: 41011   73532
+
+Read list pair: 4 1 0 1 1    7 3 5 3 2
+Sorted list pair: 0 1 1 1 4    2 3 3 5 7
+Read: 89019   62241
+
+Read list pair: 8 9 0 1 9    6 2 2 4 1
+Sorted list pair: 0 1 8 9 9    1 2 2 4 6
+Read: 67037   12599
+
+Read list pair: 6 7 0 3 7    1 2 5 9 9
+Sorted list pair: 0 3 6 7 7    1 2 5 9 9
+Read: 30561   21210
+
+Read list pair: 3 0 5 6 1    2 1 2 1 0
+Sorted list pair: 0 1 3 5 6    0 1 1 2 2
+Read: 64503   38086
+
+Read list pair: 6 4 5 0 3    3 8 0 8 6
+Sorted list pair: 0 3 4 5 6    0 3 6 8 8
+Read: 99814   92718
+
+Read list pair: 9 9 8 1 4    9 2 7 1 8
+Sorted list pair: 1 4 8 9 9    1 2 7 8 9
+Read: 62163   44999
+
+Read list pair: 6 2 1 6 3    4 4 9 9 9
+Sorted list pair: 1 2 3 6 6    4 4 9 9 9
+Read: 41339   56714
+
+Read list pair: 4 1 3 3 9    5 6 7 1 4
+Sorted list pair: 1 3 3 4 9    1 4 5 6 7
+Read: 48486   24365
+
+Read list pair: 4 8 4 8 6    2 4 3 6 5
+Sorted list pair: 4 4 6 8 8    2 3 4 5 6
+Read: 73474   84198
+
+Read list pair: 7 3 4 7 4    8 4 1 9 8
+Sorted list pair: 3 4 4 7 7    1 4 8 8 9
+Read: 12943   85353
+
+Read list pair: 1 2 9 4 3    8 5 3 5 3
+Sorted list pair: 1 2 3 4 9    3 3 5 5 8
+Read: 53346   76552
+
+Read list pair: 5 3 3 4 6    7 6 5 5 2
+Sorted list pair: 3 3 4 5 6    2 5 5 6 7
+Read: 65110   10187
+
+Read list pair: 6 5 1 1 0    1 0 1 8 7
+Sorted list pair: 0 1 1 5 6    0 1 1 7 8
+Read: 14424   99714
+
+Read list pair: 1 4 4 2 4    9 9 7 1 4
+Sorted list pair: 1 2 4 4 4    1 4 7 9 9
+Read: 77324   44999
+
+Read list pair: 7 7 3 2 4    4 4 9 9 9
+Sorted list pair: 2 3 4 7 7    4 4 9 9 9
+Read: 68183   99007
+
+Read list pair: 6 8 1 8 3    9 9 0 0 7
+Sorted list pair: 1 3 6 8 8    0 0 7 9 9
+Read: 62112   97792
+
+Read list pair: 6 2 1 1 2    9 7 7 9 2
+Sorted list pair: 1 1 2 2 6    2 7 7 9 9
+Read: 91712   78301
+
+Read list pair: 9 1 7 1 2    7 8 3 0 1
+Sorted list pair: 1 1 2 7 9    0 1 3 7 8
+Read: 30715   41011
+
+Read list pair: 3 0 7 1 5    4 1 0 1 1
+Sorted list pair: 0 1 3 5 7    0 1 1 1 4
+Read: 80210   76343
+
+Read list pair: 8 0 2 1 0    7 6 3 4 3
+Sorted list pair: 0 0 1 2 8    3 3 4 6 7
+Read: 48330   99007
+
+Read list pair: 4 8 3 3 0    9 9 0 0 7
+Sorted list pair: 0 3 3 4 8    0 0 7 9 9
+Read: 46680   96360
+
+Read list pair: 4 6 6 8 0    9 6 3 6 0
+Sorted list pair: 0 4 6 6 8    0 3 6 6 9
+Read: 89265   21171
+
+Read list pair: 8 9 2 6 5    2 1 1 7 1
+Sorted list pair: 2 5 6 8 9    1 1 1 2 7
+Read: 78498   67808
+
+Read list pair: 7 8 4 9 8    6 7 8 0 8
+Sorted list pair: 4 7 8 8 9    0 6 7 8 8
+Read: 95594   60377
+
+Read list pair: 9 5 5 9 4    6 0 3 7 7
+Sorted list pair: 4 5 5 9 9    0 3 6 7 7
+Read: 81820   84843
+
+Read list pair: 8 1 8 2 0    8 4 8 4 3
+Sorted list pair: 0 1 2 8 8    3 4 4 8 8
+Read: 17509   85554
+
+Read list pair: 1 7 5 0 9    8 5 5 5 4
+Sorted list pair: 0 1 5 7 9    4 5 5 5 8
+Read: 47369   11182
+
+Read list pair: 4 7 3 6 9    1 1 1 8 2
+Sorted list pair: 3 4 6 7 9    1 1 1 2 8
+Read: 34359   84179
+
+Read list pair: 3 4 3 5 9    8 4 1 7 9
+Sorted list pair: 3 3 4 5 9    1 4 7 8 9
+Read: 45592   15347
+
+Read list pair: 4 5 5 9 2    1 5 3 4 7
+Sorted list pair: 2 4 5 5 9    1 3 4 5 7
