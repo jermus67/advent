@@ -73,7 +73,7 @@ static int compare(const void *a, const void *b) {
     return (*(const int*)a) - (*(const int*)b);
 }
 
-int get_distance(struct list* a, struct list* b) {
+int calculate_distance(struct list* a, struct list* b) {
     int distance = 0;
     for (int i = 0; i < a->size; i++) {
         if (a->data[i] > b->data[i]) {
@@ -104,7 +104,7 @@ int main() {
     qsort(a->data, a->size, sizeof(int), compare);
     qsort(b->data, b->size, sizeof(int), compare);
 
-    total_distance = get_distance(a, b);
+    total_distance = calculate_distance(a, b);
 
     printf("Total distance: %d\n", total_distance);
 
