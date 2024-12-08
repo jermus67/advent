@@ -8,58 +8,58 @@ struct puzzle {
     int columns;
 };
 
-int masses_left(struct puzzle puzzle, int row, int column) {
-    int masses = 0;
+int xmas_left(struct puzzle puzzle, int row, int column) {
+    int xmas = 0;
     if (column - 1 >= 0 && row -1 >= 0 && puzzle.grid[row-1][column - 1] == 'M' &&
         column - 1 >= 0 && row + 1 < puzzle.rows && puzzle.grid[row+1][column - 1] == 'M' &&
         column + 1 < puzzle.columns && row - 1 >= 0 && puzzle.grid[row-1][column + 1] == 'S' &&
         column + 1 < puzzle.columns && row + 1 < puzzle.rows && puzzle.grid[row+1][column + 1] == 'S') {
-        masses++;
+        xmas++;
     }
-    return masses;
+    return xmas;
 }
 
-int masses_right(struct puzzle puzzle, int row, int column) {
-    int masses = 0;
+int xmas_right(struct puzzle puzzle, int row, int column) {
+    int xmas = 0;
     if (column + 1 < puzzle.columns && row -1 >= 0 && puzzle.grid[row-1][column + 1] == 'M' &&
         column + 1 < puzzle.columns && row + 1 < puzzle.rows && puzzle.grid[row+1][column + 1] == 'M' &&
         column - 1 >= 0 && row - 1 >= 0 && puzzle.grid[row-1][column - 1] == 'S' &&
         column - 1 >= 0 && row + 1 < puzzle.rows && puzzle.grid[row+1][column - 1] == 'S') {
-        masses++;
+        xmas++;
     }
-    return masses;
+    return xmas;
 }
 
-int masses_up(struct puzzle puzzle, int row, int column) {
-    int masses = 0;
+int xmas_up(struct puzzle puzzle, int row, int column) {
+    int xmas = 0;
     if (row - 1 >= 0 && column - 1 >= 0 && puzzle.grid[row - 1][column - 1] == 'M' &&
         row - 1 >= 0 && column + 1 < puzzle.columns && puzzle.grid[row - 1][column + 1] == 'M' &&
         row + 1 < puzzle.rows && column - 1 >= 0 && puzzle.grid[row + 1][column - 1] == 'S' &&
         row + 1 < puzzle.rows && column + 1 < puzzle.columns && puzzle.grid[row + 1][column + 1] == 'S') {
-        masses++;
+        xmas++;
     }
-    return masses;
+    return xmas;
 }
 
-int masses_down(struct puzzle puzzle, int row, int column) {
-    int masses = 0;
+int xmas_down(struct puzzle puzzle, int row, int column) {
+    int xmas = 0;
     if (row + 1 < puzzle.rows && column - 1 >= 0 && puzzle.grid[row + 1][column - 1] == 'M' &&
         row + 1 < puzzle.rows && column + 1 < puzzle.columns && puzzle.grid[row + 1][column + 1] == 'M' &&
         row - 1 >= 0 && column - 1 >= 0 && puzzle.grid[row - 1][column - 1] == 'S' &&
         row - 1 >= 0 && column + 1 < puzzle.columns && puzzle.grid[row - 1][column + 1] == 'S') {
-        masses++;
+        xmas++;
     }
-    return masses;
+    return xmas;
 }
 
 int num_xmas(struct puzzle puzzle, int row, int column) {
     int xmas = 0;
     
     if (puzzle.grid[row][column] == 'A') {
-        xmas += masses_left(puzzle, row, column);
-        xmas += masses_right(puzzle, row, column);
-        xmas += masses_up(puzzle, row, column);
-        xmas += masses_down(puzzle, row, column);
+        xmas += xmas_left(puzzle, row, column);
+        xmas += xmas_right(puzzle, row, column);
+        xmas += xmas_up(puzzle, row, column);
+        xmas += xmas_down(puzzle, row, column);
     }
 
     return xmas;
