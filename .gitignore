@@ -2,3 +2,5 @@ a.out
 i.txt
 input.txt
 output.txt
+MODULE.bazel.lock
+bazel-*
