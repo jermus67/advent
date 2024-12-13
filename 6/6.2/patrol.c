@@ -61,12 +61,8 @@ void find_start_position_in_patrol_area_map(int *x, int *y, struct patrol_area_m
 struct guard;
 
 // Patrol area
-//
-// A patrol area is a two-dimensional grid of cells.
-//
-// A patrol area cell acts as a visitor for a guard. This visitor offers a single method interface, that can be called by current state of the guard.
-// This method is called "move" and it takes a guard as an argument, and knows.
 struct patrol_area_cell {
+    int start_position;
     int number_of_times_guard_has_moved_north_in_this_cell;
     int number_of_times_guard_has_moved_east_in_this_cell;
     int number_of_times_guard_has_moved_south_in_this_cell;
@@ -81,6 +77,12 @@ struct patrol_area_cell {
     void (*move_guard_west)(struct guard *);
 };
 
+struct patrol_area {
+    struct patrol_area_cell **cells;
+    int width;
+    int height;
+};
+
 void move_north(struct guard *);
 void move_east(struct guard *);
 void move_south(struct guard *);
@@ -89,65 +91,68 @@ void obstacle_north(struct guard *);
 void obstacle_east(struct guard *);
 void obstacle_south(struct guard *);
 void obstacle_west(struct guard *);
-void no_more_moves(struct guard *);
+void no_more_moves_north(struct guard *);
+void no_more_moves_east(struct guard *);
+void no_more_moves_south(struct guard *);
+void no_more_moves_west(struct guard *);
 
-void initialize_move_north(struct patrol_area_cell* cell, struct patrol_area_cell **patrol_area_rows, int x_north, int y_north, struct patrol_area_map *patrol_area_map) {
+void initialize_move_north(struct patrol_area_cell* cell, struct patrol_area *patrol_area, int y_north, int x_north, struct patrol_area_map *patrol_area_map) {
     cell->number_of_times_guard_has_moved_north_in_this_cell = 0;
     if (y_north < 0) {
         cell->north = NULL;
-        cell->move_guard_north = no_more_moves;
+        cell->move_guard_north = no_more_moves_north;
     } else if (patrol_area_map->map[y_north][x_north] == '#') {
         cell->north = NULL;
         cell->move_guard_north = obstacle_north;
     } else {
-        cell->north = &patrol_area_rows[y_north][x_north];
+        cell->north = &patrol_area->cells[y_north][x_north];
         cell->move_guard_north = move_north;
     }
 }
 
-void initialize_move_east(struct patrol_area_cell* cell, struct patrol_area_cell **patrol_area_rows, int x_east, int y_east, struct patrol_area_map *patrol_area_map) {
+void initialize_move_east(struct patrol_area_cell* cell, struct patrol_area *patrol_area, int y_east, int x_east, struct patrol_area_map *patrol_area_map) {
     cell->number_of_times_guard_has_moved_east_in_this_cell = 0;
     if (x_east >= patrol_area_map->width) {
         cell->east = NULL;
-        cell->move_guard_east = no_more_moves;
+        cell->move_guard_east = no_more_moves_east;
     } else if (patrol_area_map->map[y_east][x_east] == '#') {
         cell->east = NULL;
         cell->move_guard_east = obstacle_east;
     } else {
-        cell->east = &patrol_area_rows[y_east][x_east];
+        cell->east = &patrol_area->cells[y_east][x_east];
         cell->move_guard_east = move_east;
     }
 }
 
-void initialize_move_south(struct patrol_area_cell* cell, struct patrol_area_cell **patrol_area_rows, int x_south, int y_south, struct patrol_area_map *patrol_area_map) {
-    cell->number_of_times_guard_has_moved_south_in_this_cell = 0;
-    if (y_south >= patrol_area_map->height) {
-        cell->south = NULL;
-        cell->move_guard_south = no_more_moves;
-    } else if (patrol_area_map->map[y_south][x_south] == '#') {
-        cell->south = NULL;
-        cell->move_guard_south = obstacle_south;
-    } else {
-        cell->south = &patrol_area_rows[y_south][x_south];
-        cell->move_guard_south = move_south;
-    }
-}
-
-void initialize_move_west(struct patrol_area_cell* cell, struct patrol_area_cell **patrol_area_rows, int x_west, int y_west, struct patrol_area_map *patrol_area_map) {
+void initialize_move_west(struct patrol_area_cell* cell, struct patrol_area *patrol_area, int y_west, int x_west, struct patrol_area_map *patrol_area_map) {
     cell->number_of_times_guard_has_moved_west_in_this_cell = 0;
     if (x_west < 0) {
         cell->west = NULL;
-        cell->move_guard_west = no_more_moves;
+        cell->move_guard_west = no_more_moves_west;
     } else if (patrol_area_map->map[y_west][x_west] == '#') {
         cell->west = NULL;
         cell->move_guard_west = obstacle_west;
     } else {
-        cell->west = &patrol_area_rows[y_west][x_west];
+        cell->west = &patrol_area->cells[y_west][x_west];
         cell->move_guard_west = move_west;
     }
 }
 
-void initialize_patrol_area_cell(struct patrol_area_cell *cell, struct patrol_area_cell **patrol_area_rows, int x, int y, struct patrol_area_map *patrol_area_map) {
+void initialize_move_south(struct patrol_area_cell* cell, struct patrol_area *patrol_area, int y_south, int x_south, struct patrol_area_map *patrol_area_map) {
+    cell->number_of_times_guard_has_moved_south_in_this_cell = 0;
+    if (y_south >= patrol_area_map->height) {
+        cell->south = NULL;
+        cell->move_guard_south = no_more_moves_south;
+    } else if (patrol_area_map->map[y_south][x_south] == '#') {
+        cell->south = NULL;
+        cell->move_guard_south = obstacle_south;
+    } else {
+        cell->south = &patrol_area->cells[y_south][x_south];
+        cell->move_guard_south = move_south;
+    }
+}
+
+void initialize_patrol_area_cell(struct patrol_area_cell *cell, struct patrol_area *patrol_area, int y, int x, struct patrol_area_map *patrol_area_map) {
     if (patrol_area_map->map[y][x] == '#') {
         cell->north = NULL;
         cell->east = NULL;
@@ -158,38 +163,79 @@ void initialize_patrol_area_cell(struct patrol_area_cell *cell, struct patrol_ar
         cell->move_guard_south = NULL;
         cell->move_guard_west = NULL;
     } else {
-        initialize_move_north(cell, patrol_area_rows, x, y - 1, patrol_area_map);
-        initialize_move_east(cell, patrol_area_rows, x + 1, y, patrol_area_map);
-        initialize_move_south(cell, patrol_area_rows, x, y + 1, patrol_area_map);
-        initialize_move_west(cell, patrol_area_rows, x - 1, y, patrol_area_map);
+        cell->start_position = 0;
+        initialize_move_north(cell, patrol_area, y - 1, x, patrol_area_map);
+        initialize_move_south(cell, patrol_area, y + 1, x, patrol_area_map);
+        initialize_move_east(cell, patrol_area, y, x + 1, patrol_area_map);
+        initialize_move_west(cell, patrol_area, y, x - 1, patrol_area_map);
     }
 }
 
-struct patrol_area_cell** create_patrol_area_from_map(struct patrol_area_map *patrol_area_map) {
-    struct patrol_area_cell **patrol_area_rows = (struct patrol_area_cell**)malloc(patrol_area_map->height * sizeof(struct patrol_area_cell*));
-    for (int y = 0; y < patrol_area_map->height; y++) {
-        patrol_area_rows[y] = (struct patrol_area_cell*)malloc(patrol_area_map->width * sizeof(struct patrol_area_cell));
-        for (int x = 0; x < patrol_area_map->width; x++) {
-            initialize_patrol_area_cell(&patrol_area_rows[y][x], patrol_area_rows, x, y, patrol_area_map);
+struct patrol_area* create_patrol_area_from_map(struct patrol_area_map *patrol_area_map, int x_initial, int y_initial) {
+    struct patrol_area *patrol_area = (struct patrol_area*)malloc(sizeof(struct patrol_area));
+    patrol_area->width = patrol_area_map->width;
+    patrol_area->height = patrol_area_map->height;
+    patrol_area->cells = (struct patrol_area_cell**)malloc(patrol_area->height * sizeof(struct patrol_area_cell*));
+    for (int y = 0; y < patrol_area->height; y++) {
+        patrol_area->cells[y] = (struct patrol_area_cell*)malloc(patrol_area->width * sizeof(struct patrol_area_cell));
+    }
+
+    for (int y = 0; y < patrol_area->height; y++) {
+        for (int x = 0; x < patrol_area->width; x++) {
+            initialize_patrol_area_cell(&patrol_area->cells[y][x], patrol_area, y, x, patrol_area_map);
         }
     }
- 
-    return patrol_area_rows;
+
+    patrol_area->cells[y_initial][x_initial].start_position = 1;
+
+    return patrol_area;
 }
 
-void destroy_patrol_area(struct patrol_area_cell **patrol_area, int height) {
-    for (int y = 0; y < height; y++) {
-        free(patrol_area[y]);
+void destroy_patrol_area(struct patrol_area *patrol_area) {
+    for (int y = 0; y < patrol_area->height; y++) {
+        free(patrol_area->cells[y]);
     }
+    free(patrol_area->cells);
     free(patrol_area);
 }
 
-void print_patrol_area(struct patrol_area_cell **patrol_area, int width, int height) {
+int is_patrol_area_cell_start_position(struct patrol_area_cell *cell) {
+    return cell->start_position;
+}
+
+int is_patrol_area_cell_obstacle(struct patrol_area_cell *cell) {
+    return cell->north == NULL && cell->east == NULL && cell->south == NULL && cell->west == NULL;
+}
+
+int is_patrol_area_cell_north_south(struct patrol_area_cell *cell) {
+    return (cell->number_of_times_guard_has_moved_north_in_this_cell > 0 || cell->number_of_times_guard_has_moved_south_in_this_cell > 0) &&
+            cell->number_of_times_guard_has_moved_east_in_this_cell == 0 && cell->number_of_times_guard_has_moved_west_in_this_cell == 0;
+}
+
+int is_patrol_area_cell_east_west(struct patrol_area_cell *cell) {
+    return (cell->number_of_times_guard_has_moved_east_in_this_cell > 0 || cell->number_of_times_guard_has_moved_west_in_this_cell > 0) &&
+            cell->number_of_times_guard_has_moved_north_in_this_cell == 0 && cell->number_of_times_guard_has_moved_south_in_this_cell == 0;
+}
+
+int is_patrol_area_north_south_east_west(struct patrol_area_cell *cell) {
+    return (cell->number_of_times_guard_has_moved_north_in_this_cell > 0 || cell->number_of_times_guard_has_moved_south_in_this_cell > 0) &&
+            (cell->number_of_times_guard_has_moved_east_in_this_cell > 0 || cell->number_of_times_guard_has_moved_west_in_this_cell > 0);
+}
+
+void print_patrol_area(struct patrol_area *patrol_area, int width, int height) {
 
     for (int y = 0; y < height; y++) {
         for (int x = 0; x < width; x++) {
-            if (patrol_area[y][x].north == NULL && patrol_area[y][x].east == NULL && patrol_area[y][x].south == NULL && patrol_area[y][x].west == NULL) {
+            if (is_patrol_area_cell_obstacle(&patrol_area->cells[y][x])) {
                 printf("#");
+            } else if (is_patrol_area_cell_start_position(&patrol_area->cells[y][x])) {
+                printf("^");
+            } else if (is_patrol_area_cell_north_south(&patrol_area->cells[y][x])) {
+                printf("|");
+            } else if (is_patrol_area_cell_east_west(&patrol_area->cells[y][x])) {
+                printf("-");
+            } else if (is_patrol_area_north_south_east_west(&patrol_area->cells[y][x])) {
+                printf("+");
             } else {
                 printf(".");
             }
@@ -199,19 +245,12 @@ void print_patrol_area(struct patrol_area_cell **patrol_area, int width, int hei
 }
 
 // Guard
-//
-// A guard can move in four directions: up (^), down (v), left (<), and right (>).
-//
-// So, we need four instances of guard, each moving in a different direction.
-//
-// A guard has a position in the patrol area, which is a two-dimensional grid of cells.
-//
 typedef enum {
     NORTH = 0,
     EAST = 1,
     SOUTH = 2,
     WEST = 3,
-    END = 4
+    NO_MORE_MOVES = 4
 } Direction;
 
 struct guard {
@@ -225,69 +264,97 @@ void move_guard_east(struct guard *guard);
 void move_guard_south(struct guard *guard);
 void move_guard_west(struct guard *guard);
 
-struct guard * moving_guard[] = {
-    &(struct guard){NORTH, NULL, move_guard_north},
-    &(struct guard){EAST, NULL, move_guard_east},
-    &(struct guard){SOUTH, NULL, move_guard_south},
-    &(struct guard){WEST, NULL, move_guard_west},
-    &(struct guard){END, NULL, NULL}
-};
-
 void move_north(struct guard *guard) {
-    if (guard);
+    guard->current_cell->number_of_times_guard_has_moved_north_in_this_cell++;
+    guard->current_cell = guard->current_cell->north;
 }
 
 void move_east(struct guard *guard) {
-    if (guard);
+    guard->current_cell->number_of_times_guard_has_moved_east_in_this_cell++;
+    guard->current_cell = guard->current_cell->east;
 }
 
 void move_south(struct guard *guard) {
-    if (guard);
+    guard->current_cell->number_of_times_guard_has_moved_south_in_this_cell++;
+    guard->current_cell = guard->current_cell->south;
 }
 
 void move_west(struct guard *guard) {
-    if (guard);
+    guard->current_cell->number_of_times_guard_has_moved_west_in_this_cell++;
+    guard->current_cell = guard->current_cell->west;
 }
 
 void obstacle_north(struct guard *guard) {
-    if (guard);
+    guard->current_cell->number_of_times_guard_has_moved_north_in_this_cell++;
+    guard->direction = EAST;
+    guard->move = move_guard_east;
 }
 
 void obstacle_east(struct guard *guard) {
-    if (guard);
+    guard->current_cell->number_of_times_guard_has_moved_east_in_this_cell++;
+    guard->direction = SOUTH;
+    guard->move = move_guard_south;
 }
 
 void obstacle_south(struct guard *guard) {
-    if (guard);
+    guard->current_cell->number_of_times_guard_has_moved_south_in_this_cell++;
+    guard->direction = WEST;
+    guard->move = move_guard_west;
 }
 
 void obstacle_west(struct guard *guard) {
-    if (guard);
+    guard->current_cell->number_of_times_guard_has_moved_west_in_this_cell++;
+    guard->direction = NORTH;
+    guard->move = move_guard_north;
 }
 
-void no_more_moves(struct guard *guard) {
-    if (guard);
+void no_more_moves_north(struct guard *guard) {
+    guard->current_cell->number_of_times_guard_has_moved_north_in_this_cell++;
+    guard->direction = NO_MORE_MOVES;
+    guard->move = NULL;
+}
+
+void no_more_moves_east(struct guard *guard) {
+    guard->current_cell->number_of_times_guard_has_moved_east_in_this_cell++;
+    guard->direction = NO_MORE_MOVES;
+    guard->move = NULL;
+}
+
+void no_more_moves_south(struct guard *guard) {
+    guard->current_cell->number_of_times_guard_has_moved_south_in_this_cell++;
+    guard->direction = NO_MORE_MOVES;
+    guard->move = NULL;
+}
+
+void no_more_moves_west(struct guard *guard) {
+    guard->current_cell->number_of_times_guard_has_moved_west_in_this_cell++;
+    guard->direction = NO_MORE_MOVES;
+    guard->move = NULL;
 }
 
 void move_guard_north(struct guard *guard) {
-    if (guard);
+    printf("Moving guard north\n");
+    guard->current_cell->move_guard_north(guard);
 }
 
 void move_guard_east(struct guard *guard) {
-    if (guard);
+    printf("Moving guard east\n");
+    guard->current_cell->move_guard_east(guard);
 }
 
 void move_guard_south(struct guard *guard) {
-    if (guard);
+    printf("Moving guard south\n");
+    guard->current_cell->move_guard_south(guard);
 }
 
 void move_guard_west(struct guard *guard) {
-    if (guard);
+    printf("Moving guard west\n");
+    guard->current_cell->move_guard_west(guard);
 }
 
 int main() {
     struct patrol_area_map* patrol_area_map;
-    struct patrol_area_cell **patrol_area;
+    struct patrol_area *patrol_area;
     int loops_total = 0;
 
     patrol_area_map = create_patrol_area_map_from_stdin();
@@ -295,7 +362,18 @@ int main() {
     int x,y;
     find_start_position_in_patrol_area_map(&x, &y, patrol_area_map);
 
-    patrol_area = create_patrol_area_from_map(patrol_area_map);
+    patrol_area = create_patrol_area_from_map(patrol_area_map, x, y);
+
+    struct guard guard = {NORTH, &patrol_area->cells[y][x], move_guard_north};
+
+    print_patrol_area(patrol_area, patrol_area_map->width, patrol_area_map->height);
+
+    while (guard.direction != NO_MORE_MOVES) {
+        guard.move(&guard);
+    }
+
+    printf ("Guard has stopped moving\n");
+
     print_patrol_area(patrol_area, patrol_area_map->width, patrol_area_map->height);
 
     printf("Patrol area width: %d\n", patrol_area_map->width);
@@ -304,6 +382,6 @@ int main() {
 
     printf("Total loops: %d\n", loops_total);
 
-    destroy_patrol_area(patrol_area, patrol_area_map->height);
+    destroy_patrol_area(patrol_area);
     destroy_patrol_area_map(patrol_area_map);
 }
