@@ -1,5 +1,5 @@
 a.out
-i.txt
+*.txt
 input.txt
 output.txt
 MODULE.bazel.lock
